@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=LX3-1
+Removed Member From Class: ClassName=Умножитель Member=LX3
+Added Pin To Net: NetName=VCC Pin=C41-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=U3-5

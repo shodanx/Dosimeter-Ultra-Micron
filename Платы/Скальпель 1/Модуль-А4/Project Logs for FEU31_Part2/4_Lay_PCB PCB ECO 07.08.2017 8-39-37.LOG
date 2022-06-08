@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+2.5ANALOG Pin=+2.5A-1
+Removed Pin From Net: NetName=AGND Pin=+2.5A-2
+Removed Pin From Net: NetName=AGND Pin=+2.5A-3
+Removed Pin From Net: NetName=AGND Pin=+2.5A-4
+Removed Pin From Net: NetName=AGND Pin=+2.5A-5
+Removed Pin From Net: NetName=-2.5ANALOG Pin=-2.5A-1
+Removed Pin From Net: NetName=AGND Pin=-2.5A-2
+Removed Pin From Net: NetName=AGND Pin=-2.5A-3
+Removed Pin From Net: NetName=AGND Pin=-2.5A-4
+Removed Pin From Net: NetName=AGND Pin=-2.5A-5
+Removed Member From Class: ClassName=FEU31_Part2 Member=+2.5A
+Removed Member From Class: ClassName=FEU31_Part2 Member=-2.5A

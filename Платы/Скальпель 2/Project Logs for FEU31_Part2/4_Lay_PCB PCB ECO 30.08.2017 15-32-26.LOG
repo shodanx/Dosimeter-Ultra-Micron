@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Pulse_M Old Comment=COAX-M New Comment=MMCX PCB
+Change Component Kind : Designator=Iface Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=HV_Conn Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Batt Old Kind=Standard New Kind=Standard (No BOM)

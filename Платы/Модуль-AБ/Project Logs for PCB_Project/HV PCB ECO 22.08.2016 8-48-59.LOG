@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=BAT Pin=R14-1
+Removed Pin From Net: NetName=NetC40_1 Pin=R14-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R17-2
+Removed Pin From Net: NetName=NetC40_1 Pin=SNDcon-1
+Change Component Footprint: Designator=Q2 Old Footprint=PMR400UN New Footprint=Micro3_N
+Change Component Comment : Designator=Q1 Old Comment=IRLML2402 New Comment=IRLML6344
+Change Component Comment : Designator=Q2 Old Comment=PMR400UN New Comment=IRLML6401
+Added Component: Designator=Q3(SOT-23_N)
+Added Component: Designator=R20(1608[0603]_RES)
+Added Pin To Net: NetName=NetC40_1 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC40_1 Pin=R14-1
+Added Pin To Net: NetName=BAT Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=BAT Pin=R20-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=SNDcon-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=SNDcon-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R15-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R17-1
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=Умножитель Member=Component Q3 IRLML6344
+Added Member To Class: ClassName=Умножитель Member=Component R20 47k

@@ -1,0 +1,4 @@
+Added Component: Designator=Vibro(Vibro 4hobby)
+Added Pin To Net: NetName=NetC23_2 Pin=Vibro-1
+Added Pin To Net: NetName=NetC23_1 Pin=Vibro-2
+Added Member To Class: ClassName=Micron-6 Member=Component Vibro Motor

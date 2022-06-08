@@ -1,0 +1,62 @@
+Added Component: Designator=+2.5A(MMCX2.54-V5)
+Added Component: Designator=+5A(MMCX2.54-V5)
+Added Component: Designator=-2.5A(MMCX2.54-V5)
+Added Component: Designator=C59(C1206)
+Added Component: Designator=C60(C1206)
+Added Component: Designator=C61(1608[0603]_CAP)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=R22(1608[0603]_RES)
+Added Component: Designator=R23(1608[0603]_RES)
+Added Component: Designator=U10(DFN-10_DD)
+Added Pin To Net: NetName=+2.5ANALOG Pin=+2.5A-1
+Added Pin To Net: NetName=AGND Pin=+2.5A-2
+Added Pin To Net: NetName=AGND Pin=+2.5A-3
+Added Pin To Net: NetName=AGND Pin=+2.5A-4
+Added Pin To Net: NetName=AGND Pin=+2.5A-5
+Added Pin To Net: NetName=+5ANALOG Pin=+5A-1
+Added Pin To Net: NetName=AGND Pin=+5A-2
+Added Pin To Net: NetName=AGND Pin=+5A-3
+Added Pin To Net: NetName=AGND Pin=+5A-4
+Added Pin To Net: NetName=AGND Pin=+5A-5
+Added Pin To Net: NetName=-2.5ANALOG Pin=-2.5A-1
+Added Pin To Net: NetName=AGND Pin=-2.5A-2
+Added Pin To Net: NetName=AGND Pin=-2.5A-3
+Added Pin To Net: NetName=AGND Pin=-2.5A-4
+Added Pin To Net: NetName=AGND Pin=-2.5A-5
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=-2.5ANALOG Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=VDIGISETCANCS Pin=P1-1
+Added Pin To Net: NetName=VDIGISETCANDIN Pin=P1-2
+Added Pin To Net: NetName=VDIGISETCANCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=-2.5ANALOG Pin=U10-9
+Added Pin To Net: NetName=-2.5ANALOG Pin=U10-10
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=C59-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=R22-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U10-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U10-2
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U10-4
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U10-6
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U10-11
+Added Net: Name=NEGATIVE_V_IN
+Added Pin To Net: NetName=NetC61_1 Pin=C61-1
+Added Pin To Net: NetName=NetC61_1 Pin=R23-2
+Added Pin To Net: NetName=NetC61_1 Pin=U10-7
+Added Net: Name=NetC61_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U10-3
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component +2.5A MMCX
+Added Member To Class: ClassName=FEU31_Part2 Member=Component +5A MMCX
+Added Member To Class: ClassName=FEU31_Part2 Member=Component -2.5A MMCX
+Added Member To Class: ClassName=Power Member=Component C59 4.7uF
+Added Member To Class: ClassName=Power Member=Component C60 4.7uF
+Added Member To Class: ClassName=Power Member=Component C61 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P1 Header 3
+Added Member To Class: ClassName=Power Member=Component R22 10K
+Added Member To Class: ClassName=Power Member=Component R23 49.9K
+Added Member To Class: ClassName=Power Member=Component U10 LT3090EDD

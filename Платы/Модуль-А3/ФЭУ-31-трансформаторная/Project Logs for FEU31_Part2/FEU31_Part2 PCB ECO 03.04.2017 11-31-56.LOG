@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R8 Old Comment=16R New Comment=6R
+Change Component Comment : Designator=R7 Old Comment=100k New Comment=47k
+Change Component Comment : Designator=R6 Old Comment=390K New Comment=1M
+Change Net Name : Old Net Name=12MV New Net Name=4.5MV

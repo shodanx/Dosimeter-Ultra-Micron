@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetDisplay1_5 Pin=U1-39
+Removed Pin From Net: NetName=NetDisplay1_2 Pin=U1-41
+Removed Pin From Net: NetName=NetDisplay1_1 Pin=U1-42
+Removed Pin From Net: NetName=NetDisplay1_4 Pin=U1-45
+Added Component: Designator=R19(CAT16-470J4LF)
+Added Pin To Net: NetName=NetDisplay1_1 Pin=R19-5
+Added Pin To Net: NetName=NetDisplay1_2 Pin=R19-6
+Added Pin To Net: NetName=NetDisplay1_4 Pin=R19-7
+Added Pin To Net: NetName=NetDisplay1_5 Pin=R19-8
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U1-42
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U1-41
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR19_3 Pin=R19-3
+Added Pin To Net: NetName=NetR19_3 Pin=U1-39
+Added Net: Name=NetR19_3
+Added Pin To Net: NetName=NetR19_4 Pin=R19-4
+Added Pin To Net: NetName=NetR19_4 Pin=U1-45
+Added Net: Name=NetR19_4
+Added Member To Class: ClassName=Micron-6 Member=Component R19 CAT16-470J4LF

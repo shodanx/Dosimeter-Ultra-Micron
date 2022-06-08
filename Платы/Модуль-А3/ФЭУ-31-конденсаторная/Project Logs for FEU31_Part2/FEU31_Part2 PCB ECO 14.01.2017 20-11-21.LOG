@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=днг-31 New Footprint=HDR2X5
+Added Pin To Net: NetName=DINODE2 Pin=P1-1
+Added Pin To Net: NetName=DINODE4 Pin=P1-2
+Added Pin To Net: NetName=DINODE6 Pin=P1-3
+Added Pin To Net: NetName=DINODE8 Pin=P1-4
+Added Pin To Net: NetName=DINODE7 Pin=P1-6
+Added Pin To Net: NetName=DINODE5 Pin=P1-7
+Added Pin To Net: NetName=DINODE3 Pin=P1-8
+Added Pin To Net: NetName=DINODE1 Pin=P1-9

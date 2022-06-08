@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD1
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD2
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD3
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD4
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR12_2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD2 Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD3 Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD4 Harwin Clips

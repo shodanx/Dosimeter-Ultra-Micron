@@ -1,0 +1,21 @@
+Added Component: Designator=C79(1608[0603]_CAP)
+Added Component: Designator=R32(1608[0603]_RES)
+Added Component: Designator=R33(1608[0603]_RES)
+Added Component: Designator=Z1(asdmb)
+Added Pin To Net: NetName=3.3V Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=3.3V Pin=R33-1
+Added Pin To Net: NetName=GND Pin=Z1-2
+Added Pin To Net: NetName=3.3V Pin=Z1-4
+Added Pin To Net: NetName=50MHZ Pin=U11-43
+Added Pin To Net: NetName=50MHZ Pin=Z1-3
+Added Net: Name=50MHZ
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=R33-2
+Added Pin To Net: NetName=NetR32_2 Pin=Z1-1
+Added Net: Name=NetR32_2
+Added Member To Class: ClassName=CPLD Member=Component C79 100nF
+Added Member To Class: ClassName=CPLD Member=Component R32 None
+Added Member To Class: ClassName=CPLD Member=Component R33 None
+Added Member To Class: ClassName=CPLD Member=Component Z1 ASEMB-50.000MHZ-LC-T

@@ -1,0 +1,62 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=C7(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=C15(C1206)
+Added Pin To Net: NetName=DINODE8 Pin=C1-1
+Added Pin To Net: NetName=DINODE8 Pin=C2-1
+Added Pin To Net: NetName=DINODE8 Pin=C3-1
+Added Pin To Net: NetName=DINODE8 Pin=C4-1
+Added Pin To Net: NetName=DINODE8 Pin=C5-1
+Added Pin To Net: NetName=DINODE7 Pin=C6-1
+Added Pin To Net: NetName=DINODE8 Pin=C6-2
+Added Pin To Net: NetName=DINODE7 Pin=C7-1
+Added Pin To Net: NetName=DINODE8 Pin=C7-2
+Added Pin To Net: NetName=DINODE7 Pin=C8-1
+Added Pin To Net: NetName=DINODE8 Pin=C8-2
+Added Pin To Net: NetName=DINODE7 Pin=C9-1
+Added Pin To Net: NetName=DINODE8 Pin=C9-2
+Added Pin To Net: NetName=DINODE6 Pin=C10-1
+Added Pin To Net: NetName=DINODE7 Pin=C10-2
+Added Pin To Net: NetName=DINODE6 Pin=C11-1
+Added Pin To Net: NetName=DINODE7 Pin=C11-2
+Added Pin To Net: NetName=DINODE6 Pin=C12-1
+Added Pin To Net: NetName=DINODE7 Pin=C12-2
+Added Pin To Net: NetName=DINODE5 Pin=C13-1
+Added Pin To Net: NetName=DINODE6 Pin=C13-2
+Added Pin To Net: NetName=DINODE5 Pin=C14-1
+Added Pin To Net: NetName=DINODE6 Pin=C14-2
+Added Pin To Net: NetName=DINODE4 Pin=C15-1
+Added Pin To Net: NetName=DINODE5 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=Power1-1
+Added Net: Name=GND
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C1 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C2 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C3 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C4 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C5 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C6 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C7 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C8 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C9 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C10 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C11 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C12 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C13 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C14 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C15 100nF

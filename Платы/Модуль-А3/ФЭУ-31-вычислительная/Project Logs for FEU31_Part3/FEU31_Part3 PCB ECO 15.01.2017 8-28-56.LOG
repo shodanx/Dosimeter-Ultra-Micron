@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C? Old Footprint=1608[0603] New Footprint=C1210
+Change Component Comment : Designator=C? Old Comment=470nF New Comment=22uF
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC22_1
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C21 4.7uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C22 22uF

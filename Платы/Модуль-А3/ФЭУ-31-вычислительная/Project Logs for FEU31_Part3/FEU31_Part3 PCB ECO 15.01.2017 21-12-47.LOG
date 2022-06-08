@@ -1,0 +1,6 @@
+Added Component: Designator=CLK(Sensor contact)
+Added Component: Designator=IO(Sensor contact)
+Added Pin To Net: NetName=CLK Pin=CLK-1
+Added Pin To Net: NetName=IO Pin=IO-1
+Added Member To Class: ClassName=FEU31_Part3 Member=Component CLK 
+Added Member To Class: ClassName=FEU31_Part3 Member=Component IO 

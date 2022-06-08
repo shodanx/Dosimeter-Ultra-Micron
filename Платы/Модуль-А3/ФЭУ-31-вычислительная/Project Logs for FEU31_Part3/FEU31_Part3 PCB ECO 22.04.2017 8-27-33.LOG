@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC Pin=C9-1
+Removed Pin From Net: NetName=VCC Pin=C11-1
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Removed Pin From Net: NetName=VCC Pin=C14-1
+Removed Pin From Net: NetName=VCC Pin=P2-4
+Removed Pin From Net: NetName=VCC Pin=R17-2
+Removed Pin From Net: NetName=VCC Pin=U5-5
+Change Component Comment : Designator=U10 Old Comment=LP5907MFX-3.0 New Comment=TPS78330DDCR
+Added Component: Designator=C?(0402 AVX)
+Added Component: Designator=C?(0402 AVX)
+Added Component: Designator=R?(1608[0603])
+Added Component: Designator=U?(TPS78330DDCR)
+Added Pin To Net: NetName=BAT Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=BAT Pin=U?-1
+Added Pin To Net: NetName=AGND Pin=U?-2
+Added Pin To Net: NetName=AVCC Pin=C9-1
+Added Pin To Net: NetName=AVCC Pin=C11-1
+Added Pin To Net: NetName=AVCC Pin=C13-1
+Added Pin To Net: NetName=AVCC Pin=C14-1
+Added Pin To Net: NetName=AVCC Pin=C?-1
+Added Pin To Net: NetName=AVCC Pin=P2-4
+Added Pin To Net: NetName=AVCC Pin=R17-2
+Added Pin To Net: NetName=AVCC Pin=U5-5
+Added Pin To Net: NetName=AVCC Pin=U?-5
+Added Net: Name=AVCC
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C? 1uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C? 1uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R? 0R
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U? LP5907MFX-3.0

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=U2(SOT-23-OT5_N)
+Added Pin To Net: NetName=NetR5_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=BAT Pin=U2-3
+Added Pin To Net: NetName=+5 Pin=U2-4
+Added Pin To Net: NetName=NetR6_2 Pin=U2-5
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU3_5
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU3_6
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U2 MCP73831T-2ACI/OT
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U3 STM32L152CBU6

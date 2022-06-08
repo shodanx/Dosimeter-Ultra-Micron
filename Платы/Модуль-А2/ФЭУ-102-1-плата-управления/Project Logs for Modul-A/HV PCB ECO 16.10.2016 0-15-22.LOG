@@ -1,0 +1,169 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C29(1608[0603]_CAP)
+Added Component: Designator=C30(1608[0603]_CAP)
+Added Component: Designator=C31(1608[0603]_CAP)
+Added Component: Designator=C34(1608[0603]_CAP)
+Added Component: Designator=C35(1608[0603]_CAP)
+Added Component: Designator=C38(1608[0603]_CAP)
+Added Component: Designator=C41(1608[0603]_CAP)
+Added Component: Designator=C42(1608[0603]_CAP)
+Added Component: Designator=D1(ONSC-SOD-923-2-514AB-01_V)
+Added Component: Designator=D2(ONSC-SOD-923-2-514AB-01_V)
+Added Component: Designator=J1(47346-0001)
+Added Component: Designator=LX1(Resistor)
+Added Component: Designator=LX2(Resistor)
+Added Component: Designator=LX3(Resistor)
+Added Component: Designator=P?(HDR2X4)
+Added Component: Designator=R1(1608[0603])
+Added Component: Designator=R3(3223W)
+Added Component: Designator=R5(1608[0603])
+Added Component: Designator=R6(1608[0603])
+Added Component: Designator=R7(1608[0603])
+Added Component: Designator=R8(1608[0603])
+Added Component: Designator=R9(1608[0603])
+Added Component: Designator=R10(1608[0603])
+Added Component: Designator=R11(1608[0603])
+Added Component: Designator=R12(1608[0603])
+Added Component: Designator=R13(3223W)
+Added Component: Designator=R16(1608[0603])
+Added Component: Designator=U1(ADI-RJ-5_N)
+Added Component: Designator=U2(ADI-RJ-5_N)
+Added Component: Designator=U3(SOT23-6L)
+Added Component: Designator=ФЭУ-?(ФЭУ-102)
+Added Pin To Net: NetName=VCC_IN Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC_IN Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_1 Pin=C30-1
+Added Pin To Net: NetName=HV_IN Pin=C30-2
+Added Pin To Net: NetName=NetC29_1 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_1 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VCC Pin=C38-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=VCC_IN Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=HV_IN Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VCC_IN Pin=J1-2
+Added Pin To Net: NetName=VCC_IN Pin=J1-3
+Added Pin To Net: NetName=SCINT Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-MH1
+Added Pin To Net: NetName=GND Pin=J1-MH2
+Added Pin To Net: NetName=GND Pin=J1-MH3
+Added Pin To Net: NetName=GND Pin=J1-MH3
+Added Pin To Net: NetName=GND Pin=J1-MH4
+Added Pin To Net: NetName=GND Pin=J1-MH4
+Added Pin To Net: NetName=VCC Pin=LX1-1
+Added Pin To Net: NetName=NetC29_1 Pin=LX1-2
+Added Pin To Net: NetName=VCC Pin=LX2-1
+Added Pin To Net: NetName=NetC34_1 Pin=LX2-2
+Added Pin To Net: NetName=VCC Pin=LX3-1
+Added Pin To Net: NetName=NetC41_1 Pin=LX3-2
+Added Pin To Net: NetName=HV_IN Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=ANODE Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=VCC_IN Pin=P?-7
+Added Pin To Net: NetName=PULSE Pin=P?-8
+Added Pin To Net: NetName=180MV Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC29_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetC29_2 Pin=R3-3
+Added Pin To Net: NetName=180MV Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetC41_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetC29_1 Pin=R7-1
+Added Pin To Net: NetName=HV_IN Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetD2_1 Pin=R10-1
+Added Pin To Net: NetName=NetC34_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=SCINT Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetC34_1 Pin=R13-1
+Added Pin To Net: NetName=NetR11_2 Pin=R13-2
+Added Pin To Net: NetName=NetC34_2 Pin=R13-3
+Added Pin To Net: NetName=ANODE Pin=R16-1
+Added Pin To Net: NetName=NetD2_1 Pin=R16-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=HV_IN Pin=U1-3
+Added Pin To Net: NetName=NetC29_2 Pin=U1-4
+Added Pin To Net: NetName=NetC29_1 Pin=U1-5
+Added Pin To Net: NetName=NetR12_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetD2_1 Pin=U2-3
+Added Pin To Net: NetName=NetC34_2 Pin=U2-4
+Added Pin To Net: NetName=NetC34_1 Pin=U2-5
+Added Pin To Net: NetName=180MV Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR8_1 Pin=U3-3
+Added Pin To Net: NetName=NetR6_2 Pin=U3-4
+Added Pin To Net: NetName=NetC41_1 Pin=U3-5
+Added Pin To Net: NetName=PULSE Pin=U3-6
+Added Pin To Net: NetName=FOTOKAT Pin=ФЭУ-?-1
+Added Pin To Net: NetName=DINODE2 Pin=ФЭУ-?-2
+Added Pin To Net: NetName=DINODE4 Pin=ФЭУ-?-3
+Added Pin To Net: NetName=DINODE6 Pin=ФЭУ-?-4
+Added Pin To Net: NetName=DINODE8 Pin=ФЭУ-?-5
+Added Pin To Net: NetName=DINODE10 Pin=ФЭУ-?-6
+Added Pin To Net: NetName=DINODE11 Pin=ФЭУ-?-7
+Added Pin To Net: NetName=DINODE12 Pin=ФЭУ-?-8
+Added Pin To Net: NetName=ANODE Pin=ФЭУ-?-9
+Added Pin To Net: NetName=DINODE9 Pin=ФЭУ-?-10
+Added Pin To Net: NetName=DINODE7 Pin=ФЭУ-?-11
+Added Pin To Net: NetName=DINODE5 Pin=ФЭУ-?-12
+Added Pin To Net: NetName=DINODE3 Pin=ФЭУ-?-13
+Added Pin To Net: NetName=DINODE1 Pin=ФЭУ-?-14
+Added Member To Class: ClassName=Умножитель Member=Component C1 10uF
+Added Member To Class: ClassName=Умножитель Member=Component C2 10uF
+Added Member To Class: ClassName=Умножитель Member=Component C29 1nF
+Added Member To Class: ClassName=Умножитель Member=Component C30 47pF
+Added Member To Class: ClassName=Умножитель Member=Component C31 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C34 1nF
+Added Member To Class: ClassName=Умножитель Member=Component C35 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C38 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C41 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C42 1uF
+Added Member To Class: ClassName=Умножитель Member=Component D1 ESD9R3.3ST5G
+Added Member To Class: ClassName=Умножитель Member=Component D2 ESD9R3.3ST5G
+Added Member To Class: ClassName=Умножитель Member=Component J1 Micro-USB
+Added Member To Class: ClassName=Умножитель Member=Component LX1 22uH
+Added Member To Class: ClassName=Умножитель Member=Component LX2 22uH
+Added Member To Class: ClassName=Умножитель Member=Component LX3 22uH
+Added Member To Class: ClassName=Умножитель Member=Component P? Header 4X2
+Added Member To Class: ClassName=Умножитель Member=Component R1 100K
+Added Member To Class: ClassName=Умножитель Member=Component R3 100K
+Added Member To Class: ClassName=Умножитель Member=Component R5 6.98K
+Added Member To Class: ClassName=Умножитель Member=Component R6 976K
+Added Member To Class: ClassName=Умножитель Member=Component R7 6,04M
+Added Member To Class: ClassName=Умножитель Member=Component R8 200K
+Added Member To Class: ClassName=Умножитель Member=Component R9 182K
+Added Member To Class: ClassName=Умножитель Member=Component R10 390K
+Added Member To Class: ClassName=Умножитель Member=Component R11 976K
+Added Member To Class: ClassName=Умножитель Member=Component R12 49.9R
+Added Member To Class: ClassName=Умножитель Member=Component R13 100K
+Added Member To Class: ClassName=Умножитель Member=Component R16 100K
+Added Member To Class: ClassName=Умножитель Member=Component U1 AD8541ARTZ
+Added Member To Class: ClassName=Умножитель Member=Component U2 AD8541ARTZ
+Added Member To Class: ClassName=Умножитель Member=Component U3 LTC6992
+Added Member To Class: ClassName=Умножитель Member=Component ФЭУ-? Header 7X2

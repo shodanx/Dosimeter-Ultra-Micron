@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Member From Class: ClassName=Micron-6 Member=C7
+Removed Member From Class: ClassName=Micron-6 Member=C8
+Change Component Footprint: Designator=Z1 Old Footprint=8MHZ New Footprint=PRQV8.00CR5010Y000
+Change Component Comment : Designator=Z1 Old Comment=8MHZ New Comment=8MHZ_cap
+Added Pin To Net: NetName=GND Pin=Z1-3
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=Z1-2
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=Z1-1
+Added Net: Name=NetU1_6

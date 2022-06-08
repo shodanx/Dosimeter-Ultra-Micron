@@ -1,0 +1,3 @@
+Added Component: Designator=Sensor(Sensor contact)
+Added Pin To Net: NetName=NetC1_2 Pin=Sensor-1
+Added Member To Class: ClassName=Micron-6 Member=Component Sensor 

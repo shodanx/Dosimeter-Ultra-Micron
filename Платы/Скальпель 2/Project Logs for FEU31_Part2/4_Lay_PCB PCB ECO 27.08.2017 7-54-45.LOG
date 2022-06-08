@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PULSESENS Pin=U11-31
+Removed Pin From Net: NetName=CLEAR_CHARGE Pin=U11-32
+Added Pin To Net: NetName=CLEAR_CHARGE Pin=U11-31
+Added Pin To Net: NetName=PULSESENS Pin=U11-32

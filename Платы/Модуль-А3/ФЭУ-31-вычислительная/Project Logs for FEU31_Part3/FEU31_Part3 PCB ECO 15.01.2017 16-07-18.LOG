@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Comment : Designator=C2 Old Comment=4u7 New Comment=10u

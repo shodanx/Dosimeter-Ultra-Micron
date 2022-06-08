@@ -1,0 +1,77 @@
+Field=Designator~String~Designator~138|Field=Order~String~Order~153|Field=Quantity~Integer~Quantity~153|Field=Value~String~Value~153|Field=Footprint~String~Footprint~153|Field=Avail~String~Avail~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=DocumentName~String~DocumentName~100|Field=LogicalDesignator~String~LogicalDesignator~100|Field=PhysicalPath~String~PhysicalPath~100|Field=Project~String~Project~100|Field=Title~String~Title~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Micron-6.PrjPcb|ReportField=ProjectFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|ReportField=Title~Bill of Materials For Project [Micron-6.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~76|ReportField=ReportTime~12:57:43|ReportField=ReportDate~20.11.2014|ReportField=ReportDateTime~20.11.2014 12:57:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Дозиметр Ультра-Микрон|ReportField=Address2~(с) Быканов Андрей|ReportField=Address3~Тула, 2014г.|ReportField=Address4~shodan@микрон.net|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andrey Bykanov|ReportField=CheckedBy~|ReportField=CompanyName~http://микрон.net|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~18.11.2013|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Andrey Bykanov|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~|ReportField=Revision~3.31|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Ультра-Микрон|ReportField=DataSourceFileName~Micron-6.PrjPcb|ReportField=DataSourceFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb
+Batt+1|EEMB LP401230|1||Sensor contact|||Plug||Batt+1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Batt-1||1||Sensor contact|||Plug||Batt-1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C1|CC1206JRNPOBBN100|1|10pF|C1206||10pF|Capacitor (Semiconductor SIM Model)||C1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C2|1812AC103KAT1A|1|10nF 1000V|1812||10nF 1000V|Capacitor (Semiconductor SIM Model)||C2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C3|GRM188R71E104KA01D|1|100nF|1608[0603]||100nF|Capacitor (Semiconductor SIM Model)||C3|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C4|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C4|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C5|CC0402KRX5R5BB105|1|1uF|0402 AVX|1|1uF|Capacitor (Semiconductor SIM Model)||C5|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C6|CC0402KRX5R5BB105|1|1uF|0402 AVX|1|1uF|Capacitor (Semiconductor SIM Model)||C6|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C7|GRM1555C1H180JZ01D|1|18pF|0402 AVX||18pF|Capacitor (Semiconductor SIM Model)||C7|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C8|GRM1555C1H180JZ01D|1|18pF|0402 AVX||18pF|Capacitor (Semiconductor SIM Model)||C8|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C9|CC1206KKX7R8BB475|1|4u7|C1206|1|4u7|Capacitor (Semiconductor SIM Model)||C9|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C10|CC1206KKX7R0BB104|1|100nF|C1206|1|100nF|Capacitor (Semiconductor SIM Model)||C10|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C11|CC0402KRX5R5BB105|1|1uF|0402 AVX|1|1uF|Capacitor (Semiconductor SIM Model)||C11|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C12|GRM31CR61E226KE15L|1|22uF|C1206||22uF|Capacitor (Semiconductor SIM Model)||C12|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C13|GRM31CR61A106KA01L|1|10uF|C1206||10uF|Capacitor (Semiconductor SIM Model)||C13|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C14|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C14|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C15|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C15|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C16|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C16|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C17|GRM1555C1H100JA01D|1|10pF|0402 AVX||10pF|Capacitor (Semiconductor SIM Model)||C17|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C18|GRM1555C1H100JA01D|1|10pF|0402 AVX||10pF|Capacitor (Semiconductor SIM Model)||C18|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C19|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C19|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C20|CC0402KRX5R5BB105|1|1uF|0402 AVX|1|1uF|Capacitor (Semiconductor SIM Model)||C20|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C21|CC0402KRX5R5BB105|1|1uF|0402 AVX||1uF|Capacitor (Semiconductor SIM Model)||C21|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+C22|0402ZD104KAT2A|1|100nF|0402 AVX||100nF|Capacitor (Semiconductor SIM Model)||C22|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+clk||1||Sensor contact|||Plug||clk|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+D1|PMEG4005CT|1||SOT23_N||PMEG4005CT|Schottky Barrier Double Diode||D1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+D2|DA2JF8100L|1|DA2JF8100L|DA2JF8100L||DA2JF8100L|Default Diode||D2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Display1|Nokia 2760 ext + Socket Hirose DF23C-10DS-0.5V|1||DF23C-10DS-0.5V||Nokia 2760|||Display1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+io||1||Sensor contact|||Plug||io|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+J1|Molex 47346-0001|1||47346-0001||Micro-USB|USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, SMT, 0.80mm (.031") Pitch, Solder Tabs with Back Cover, Recessed Type||J1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+KEY1|IT-1187-160GM-G|1||IT-1187-160GM-G||Menu|||KEY1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+KEY2|IT-1187-160GM-G|1||IT-1187-160GM-G||UP|||KEY2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+KEY3|IT-1187-160GM-G|1||IT-1187-160GM-G||DOWN|||KEY3|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+L1|IFSC1515AHER100M01|1|10uH|IFSC1515AHER100M01|15(или заказ у производителя)|10uH|Inductor||L1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+L2|LB2518T681K|1|680uH|INDUCTOR 1007||Inductor|Inductor||L2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+LED1|KPTD-3216SECK|1||KPTD-3216SECK|1|KPTD-3216SECK|||LED1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Logo||1||Logo Micron|||Plug||Logo|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Q1|BC857CT|1|BC857CT|SOT416_N||BC857CT|PNP General-purpose Transistor||Q1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Q2|PMR400UN|1|PMR400UN|PMR400UN||PMR400UN|HEXFET Power MOSFET||Q2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Q3|IRLML6401|1|IRLML6401|Micro3_N||IRLML6401|HEXFET Power MOSFET||Q3|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Q4|PMR400UN|1|PMR400UN|PMR400UN||PMR400UN|HEXFET Power MOSFET||Q4|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Q5|BC847CT|1|BC847CT|SOT416_L||BC847CT|NPN General-purpose Transistor||Q5|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R1|RV1206JR-0710ML|1|10M|Yageo HV 1206||10M|||R1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R2|RC0603FR-1010KL|1|10k|1608[0603]||10k|||R2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R3|CR0603-JW-220GLF|1|22R|1608[0603]|20|22R|||R3|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R4|RC0603FR-071K5L|1|1.5K|1608[0603]|1|1.5K|||R4|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R5|RC0603FR-1010KL|1|10k|1608[0603]||10k|||R5|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R6|RC0603FR-1010KL|1|10k|1608[0603]||10k|||R6|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R7|RC0603FR-101KL|1|1k|1608[0603]||1k|||R7|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R8|RC0603FR-1010KL|1|10k|1608[0603]||10k|||R8|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R9|CR0603-JW-220GLF|1|22R|1608[0603]|20|22R|||R9|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R10|CR0603-JW-220GLF|1|22R|1608[0603]|20|22R|||R10|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R11|RC0603FR-1010KL|1|10k|1608[0603]|1|10k|||R11|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R12|RC0603FR-1010KL|1|10k|1608[0603]|1|10k|||R12|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R13|RC0603JR-0762KL|1|62K|J1-0603|1|62K|Resistor||R13|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R14|RC0603JR-07470RL|1|470R|1608[0603]|1|470R|Resistor||R14|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R15|CR0603-JW-220GLF|1|22R|1608[0603]|20|22R|||R15|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R16|RC0603FR-071M6L|1|1.6M|J1-0603||1.6M|Resistor||R16|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R17|RC0603FR-071M6L|1|1.6M|J1-0603||1.6M|Resistor||R17|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R18|RC0603FR-073ML|1|3M|J1-0603||3M|Resistor||R18|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R20|RC0603FR-073M3L|1|3.3M|J1-0603||3.3M|Resistor||R20|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R21|RC0603FR-072M2L|1|2.2M|J1-0603||2.2M|Resistor||R21|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R22|RC0603FR-10100KL|1|100k|1608[0603]||100k|||R22|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+R23|RC0603FR-101KL|1|1k|1608[0603]||1k|||R23|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Sensor|SBM-10|1||Sensor contact|||Plug||Sensor|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+SensorGND1||1||Sensor contact|||Plug||SensorGND1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Sound1|7BB-12-9|1||Sensor contact|||Plug||Sound1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Sound2|7BB-12-9|1||Sensor contact|||Plug||Sound2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+T1|B65523J0000R087 + B65527B1008T001 + B65527A2000X000|1||Epcos ER9.5/5||Epcos ER9.5/5 10, d0.150 / 300, d0.063|||T1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+U1|STM32L152CBU6|1||UFQFPN48_M||STM32L152CBU6|||U1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+U2|TPS60400DBV|1||SOT-23-OT5_M||TPS60400DBV|||U2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+U3|USBLC6-2|1||SOT23-6L|1|USBLC6-2|||U3|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+U4|MCP73831T-2ACI/OT|1||SOT-23-OT5_N|1|MCP73831T-2ACI/OT|Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel||U4|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+U5|TPS62736RGYT|1||TPS62736RGYT|20|TPS62736RGYT|||U5|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Z1|ABM7-8.000MHZ-D2Y-T|1|8MHz|8MHZ||8MHz|||Z1|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон
+Z2|ABS10-32.768KHZ-7-T|1|32,768 KHz|ABS10||32,768 KHz|||Z2|Micron-6|C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|Ультра-Микрон

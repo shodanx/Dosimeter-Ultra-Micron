@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR22_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R22-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-26
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R8 10k

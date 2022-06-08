@@ -1,0 +1,54 @@
+﻿Field=Designator~String~Designator~138|Field=Order~String~Order~153|Field=Quantity~Integer~Quantity~153|Field=Value~String~Value~153|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Micron-6.PrjPcb|ReportField=ProjectFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|ReportField=Title~Bill of Materials For Project [Micron-6.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~90|ReportField=ReportTime~11:30:07|ReportField=ReportDate~29.01.2016|ReportField=ReportDateTime~29.01.2016 11:30:07|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Дозиметр Ультра-Микрон|ReportField=Address2~(с) Быканов Андрей|ReportField=Address3~Тула, 2014-16г.|ReportField=Address4~shodan@микрон.net|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andrey Bykanov|ReportField=CheckedBy~|ReportField=CompanyName~http://микрон.net|ReportField=CurrentDate~29.01.2016|ReportField=CurrentTime~11:29:57|ReportField=Date~18.11.2013|ReportField=DocumentFullPathAndName~C:\Проекты\Ультра-микрон\PCB\Micron-6.SchDoc|ReportField=DocumentName~Micron-6.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Andrey Bykanov|ReportField=ImagePath~|ReportField=ModifiedDate~29.01.2016|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=False:CenterVertical=False:PrintScale=0.98:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=0:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~Micron-6.PrjPcb|ReportField=Revision~5.00|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Ультра-Микрон|ReportField=DataSourceFileName~Micron-6.PrjPcb|ReportField=DataSourceFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb
+Batt+1|EEMB LP401230|1|
+Batt-1, clk, io, Logo, SensorGND1, Sound2||6|
+C1|VJ0805A100JXGAT5Z|1|10pF 1kV
+C2|1206CC103KAT1A|1|10nF 600V
+C3|CC0603JRNPO9BN102|1|1nF
+C4, C14, C15, C16, C19, C22, C25|0402ZD104KAT2A|7|100nF
+C5, C6, C11, C20, C21|CC0402KRX5R5BB105|5|1uF
+C7, C8|GRM1555C1H180JZ01D|2|18pF
+C9|GRM188R60J106ME47D|1|10u
+C10|GRM188R71E104KA01D|1|100nF
+C12|GRM31CR61E226KE15L|1|22uF
+C13|GRM31CR61A106KA01L|1|10uF
+C17, C18|GRM1555C1H100JA01D|2|10pF
+C23|CC1206KKX7R8BB475|1|4u7
+C24|06035C333JAT2A|1|33nF
+D1|BAR43C|1|
+D2|DA2JF8100L|1|DA2JF8100L
+D4|BAV99|1|BAV99
+Display1|Nokia 2760 ext + Socket Hirose DF23C-10DS-0.5V|1|
+J1|Molex 47346-0001|1|
+KEY1, KEY2, KEY3|IT-1187-160GM-G|3|
+L1|IFSC1515AHER100M01|1|10uH
+LED1|KPTD-3216SECK|1|
+Q1|BC857CT|1|BC857CT
+Q2, Q4, Q5, Q6, Q7|RUM002N05T2L|5|RUM002N05T2L
+Q3|IRLML6401|1|IRLML6401
+R1|RCV080510M0FKEA|1|10M 400V
+R2, R28|RC0603FR-071K5L|2|1.5k
+R3, R4, R5, R8, R11, R12, R22, R24|RC0603FR-1010KL|8|10k
+R6|RC0603FR-0733KL|1|33k
+R7, R23, R26|RC0603FR-101KL|3|1k
+R9, R10, R27|CR0603-JW-220GLF|3|22R
+R13|RC0603JR-0762KL|1|62K
+R14|RC0603JR-07470RL|1|470R
+R15|RC0603FR-071RL|1|1R
+R16, R17|RC0603FR-073M3L|2|3.3M
+R18|RC0603FR-077M5L|1|7.5M
+R19|RC0805FR-07360RL|1|360R
+R20|CRCW06036M04FKEA|1|6.04M
+R21|RC0603FR-075M1L|1|5.1M
+R25|RC0805FR-0715RL|1|15R
+R29, R30|RC0603JR-100RL|2|0R
+Sensor|SI-19BGM|1|
+Sound1|7BB-12-9|1|
+T1|ATB322515-0110|1|FlayBack trans.
+U1|STM32L152CBU6|1|
+U2|TPS60400DBV|1|
+U3|USBLC6-2SC6|1|
+U4|MCP73831T-2ACI/OT|1|
+U5|TPS62736RGYT|1|
+Vibro|Vibro from EBAY 4HOBBY|1|Vibro from EBAY 4HOBBY
+Z1|ABM7-8.000MHZ-D2Y-T|1|8MHz
+Z2|ABS10-32.768KHZ-7-T|1|32,768 KHz

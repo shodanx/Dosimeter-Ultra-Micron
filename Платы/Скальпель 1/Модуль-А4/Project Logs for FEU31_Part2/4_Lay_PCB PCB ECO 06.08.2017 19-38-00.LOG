@@ -1,0 +1,5 @@
+Change Component Comment : Designator=Clear_Charge Old Comment=SMB New Comment=MMCX
+Change Component Comment : Designator=Max_Pulse Old Comment=SMB New Comment=MMCX
+Change Component Comment : Designator=Pulse_sens Old Comment=SMB New Comment=MMCX
+Change Component Comment : Designator=Pump Old Comment=SMB New Comment=MMCX
+Change Component Comment : Designator=Vsens Old Comment=SMB New Comment=MMCX

@@ -1,0 +1,13 @@
+Remove Pin=P1-1 From Net=DINODE2
+Remove Pin=P1-2 From Net=DINODE4
+Remove Pin=P1-3 From Net=DINODE6
+Remove Pin=P1-4 From Net=DINODE8
+Remove Pin=P1-5 From Net=ANODE
+Remove Pin=P1-6 From Net=DINODE7
+Remove Pin=P1-7 From Net=DINODE5
+Remove Pin=P1-8 From Net=DINODE3
+Remove Pin=P1-9 From Net=DINODE1
+Remove Pin=P1-10 From Net=FOTOKAT
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Pin Designator/Name:  Old Designator=C6-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C6-2 Old Name=2 New Designator =2 New Name=2

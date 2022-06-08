@@ -1,0 +1,14 @@
+Source PCB Design FEU31_Part1.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEU31_Part1.PrjPcb]
+   Generated File[FEU31_Part1.TXT]
+   Generated File[FEU31_Part1.LDP]
+   Generated File[FEU31_Part1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:17:31 On 14.04.2017

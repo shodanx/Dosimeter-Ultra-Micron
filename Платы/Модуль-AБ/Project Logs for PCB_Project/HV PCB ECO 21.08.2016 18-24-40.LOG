@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=PUMP Pin=T1-3
+Removed Member From Class: ClassName=Умножитель Member=T1
+Change Component Designator: OldDesignator=M FK NewDesignator=FK M
+Added Component: Designator=*(Epcos ER9.5/5)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=PUMP Pin=*-4
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=C28-1
+Added Pin To Net: NetName=Net*_6 Pin=R1-1
+Added Net: Name=Net*_6
+Added Member To Class: ClassName=Умножитель Member=Component * Epcos ER9.5/5
+Added Member To Class: ClassName=Умножитель Member=Component Dinode Header 6X2

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+2.5ANALOG Pin=P?-1
+Removed Pin From Net: NetName=AGND Pin=P?-2
+Removed Pin From Net: NetName=AGND Pin=P?-3
+Removed Pin From Net: NetName=AGND Pin=P?-4
+Removed Pin From Net: NetName=AGND Pin=P?-5
+Removed Member From Class: ClassName=FEU31_Part2 Member=P?
+Added Component: Designator=+2.5A(MMCX2.54-V5)
+Added Component: Designator=+5A(MMCX2.54-V5)
+Added Component: Designator=-2.5A(MMCX2.54-V5)
+Added Pin To Net: NetName=+2.5ANALOG Pin=+2.5A-1
+Added Pin To Net: NetName=AGND Pin=+2.5A-2
+Added Pin To Net: NetName=AGND Pin=+2.5A-3
+Added Pin To Net: NetName=AGND Pin=+2.5A-4
+Added Pin To Net: NetName=AGND Pin=+2.5A-5
+Added Pin To Net: NetName=+5ANALOG Pin=+5A-1
+Added Pin To Net: NetName=AGND Pin=+5A-2
+Added Pin To Net: NetName=AGND Pin=+5A-3
+Added Pin To Net: NetName=AGND Pin=+5A-4
+Added Pin To Net: NetName=AGND Pin=+5A-5
+Added Pin To Net: NetName=-2.5ANALOG Pin=-2.5A-1
+Added Pin To Net: NetName=AGND Pin=-2.5A-2
+Added Pin To Net: NetName=AGND Pin=-2.5A-3
+Added Pin To Net: NetName=AGND Pin=-2.5A-4
+Added Pin To Net: NetName=AGND Pin=-2.5A-5
+Added Member To Class: ClassName=FEU31_Part2 Member=Component +2.5A COAX-M
+Added Member To Class: ClassName=FEU31_Part2 Member=Component +5A COAX-M
+Added Member To Class: ClassName=FEU31_Part2 Member=Component -2.5A COAX-M

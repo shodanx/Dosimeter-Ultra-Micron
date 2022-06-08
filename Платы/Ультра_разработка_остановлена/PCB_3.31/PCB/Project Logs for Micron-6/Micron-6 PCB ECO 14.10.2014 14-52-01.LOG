@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PUMP Pin=L2-2
+Removed Pin From Net: NetName=PUMP Pin=Sound1-1
+Added Pin To Net: NetName=+3 Pin=L2-2
+Added Pin To Net: NetName=+3 Pin=Sound1-1
+Added Net: Name=+3

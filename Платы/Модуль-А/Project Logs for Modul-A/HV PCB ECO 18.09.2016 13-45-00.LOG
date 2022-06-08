@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC34_1 Pin=C37-1
+Removed Pin From Net: NetName=NetC37_2 Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Member From Class: ClassName=Умножитель Member=Q3
+Removed Member From Class: ClassName=Умножитель Member=R15
+Removed Member From Class: ClassName=Умножитель Member=R17
+Change Component Comment : Designator=C37 Old Comment=2.2pF New Comment=10uF
+Change Component Comment : Designator=R14 Old Comment=100R New Comment=270R
+Change Component Comment : Designator=R10 Old Comment=390K New Comment=1M
+Change Component Comment : Designator=R8 Old Comment=470R New Comment=120R
+Change Net Name : Old Net Name=NetC37_2 New Net Name=NetR10_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R12-2
+Added Pin To Net: NetName=NetC37_1 Pin=U2-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC37_2 Pin=R20-2
+Added Net: Name=NetC37_2

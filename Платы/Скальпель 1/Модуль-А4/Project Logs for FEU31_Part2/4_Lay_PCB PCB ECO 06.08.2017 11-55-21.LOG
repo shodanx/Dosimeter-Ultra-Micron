@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=C3-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=C3
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=U2-2
+Added Net: Name=NetU1_7
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R6 47R

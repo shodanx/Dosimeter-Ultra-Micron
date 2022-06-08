@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Jumper Old Footprint=GND-AGND New Footprint=0402 jumper
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=Jumper1(0402 jumper)
+Added Component: Designator=Jumper2(0402 jumper)
+Added Pin To Net: NetName=GND Pin=Jumper1-1
+Added Pin To Net: NetName=AGND Pin=Jumper1-2
+Added Pin To Net: NetName=GND Pin=Jumper2-1
+Added Pin To Net: NetName=AGND Pin=Jumper2-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Jumper1 Value
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Jumper2 Value

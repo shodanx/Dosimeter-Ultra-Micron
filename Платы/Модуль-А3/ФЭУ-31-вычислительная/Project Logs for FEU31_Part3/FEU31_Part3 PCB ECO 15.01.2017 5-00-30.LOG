@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DAC_OUT Pin=R16-2
+Removed Member From Class: ClassName=FEU31_Part3 Member=R16
+Added Pin To Net: NetName=DAC_OUT Pin=U3-14

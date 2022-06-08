@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AVCC Pin=Q12-3
+Removed Member From Class: ClassName=FEU31_Part3 Member=Q12
+Added Pin To Net: NetName=AVCC Pin=C10-1
+Added Pin To Net: NetName=AVCC Pin=C12-1
+Added Pin To Net: NetName=AVCC Pin=U7-5

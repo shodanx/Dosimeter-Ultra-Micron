@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R22-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=U1-26
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=IRLML2402 New DesignItemId=BC847
+Change Component Footprint: Designator=Q2 Old Footprint=PMR400UN New Footprint=SOT23-3
+Change Component Comment : Designator=R22 Old Comment=100k New Comment=150R
+Change Component Comment : Designator=Q2 Old Comment=RUM002N05T2L New Comment=PBSS8110T
+Added Component: Designator=D3(DO-35)
+Added Pin To Net: NetName=NetC3_2 Pin=D3-1
+Added Pin To Net: NetName=NetC13_2 Pin=D3-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U1-26
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=Micron-6 Member=Component D3 1N4148WS

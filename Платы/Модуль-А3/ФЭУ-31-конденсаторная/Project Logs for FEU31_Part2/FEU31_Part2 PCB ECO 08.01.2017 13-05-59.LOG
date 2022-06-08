@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC_BAT Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=C2

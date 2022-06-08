@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=PULSE Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=T1-1
+Removed Pin From Net: NetName=PUMP Pin=T1-4
+Removed Pin From Net: NetName=GND Pin=T1-GND
+Removed Pin From Net: NetName=GND Pin=T1-GND
+Removed Member From Class: ClassName=FEU-102-1_part4 Member=R2
+Removed Member From Class: ClassName=FEU-102-1_part4 Member=R3
+Removed Member From Class: ClassName=FEU-102-1_part4 Member=T1
+Added Component: Designator=*(FerroxCube ER11)
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=PUMP Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=PULSE Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=PULSE Pin=R4-2
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=C1-1
+Added Pin To Net: NetName=Net*_4 Pin=R1-1
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=Q1-3
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=FEU-102-1_part4 Member=Component * FerroxCube ER11

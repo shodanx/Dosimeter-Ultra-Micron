@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PW_ON Pin=Q14-2
+Removed Pin From Net: NetName=PUMP Pin=Q14-3
+Added Pin To Net: NetName=PUMP Pin=Q14-2
+Added Pin To Net: NetName=PW_ON Pin=Q14-3

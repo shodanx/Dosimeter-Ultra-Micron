@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=Power Member=C3
+Removed Member From Class: ClassName=Power Member=C54
+Removed Member From Class: ClassName=Power Member=C55
+Removed Member From Class: ClassName=Power Member=C56
+Removed Member From Class: ClassName=Power Member=C57
+Removed Member From Class: ClassName=Power Member=C58
+Removed Member From Class: ClassName=Power Member=R19
+Removed Member From Class: ClassName=Power Member=R20
+Removed Member From Class: ClassName=Power Member=R21
+Removed Member From Class: ClassName=Power Member=U7
+Removed Member From Class: ClassName=Power Member=U8
+Added Component: Designator=*(BGM121)
+Added Component: Designator=P1(HDR2X4)
+Added Component: Designator=U9(VQG44_N)
+Added Pin To Net: NetName=V_IN Pin=P1-1
+Added Pin To Net: NetName=VDIGISETCANCLK Pin=P1-2
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=P1-3
+Added Pin To Net: NetName=VDIGISETCANDIN Pin=P1-4
+Added Pin To Net: NetName=VDIGISETCANCS Pin=P1-6
+Added Class: Name=Digital
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C3 47uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C54 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C55 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C56 47uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C57 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C58 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P1 Header 4X2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R19 249K
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R20 249K
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R21 249K
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U7 LT3085EDCB#PBF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U8 LT3085EDCB#PBF
+Added Room: Name=Digital

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Micron-6.PrjPcb]
+   Generated File[Micron-6.TXT]
+   Generated File[Micron-6.LDP]
+   Generated File[Micron-6.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:30:00 On 13.05.2015

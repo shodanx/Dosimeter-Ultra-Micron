@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C80
+Change Component Designator: OldDesignator=C? NewDesignator=C81
+Added Member To Class: ClassName=CPLD Member=Component C81 100nF

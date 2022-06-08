@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=NetC3_1 Pin=R5-1
+Removed Pin From Net: NetName=VSENS Pin=U1-4
+Change Component Comment : Designator=R5 Old Comment=6,04M New Comment=3M
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VSENS Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R4-2
+Added Pin To Net: NetName=NetC3_1 Pin=R5-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-4
+Added Net: Name=NetC3_1

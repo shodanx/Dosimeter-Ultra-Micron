@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD5
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD6
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD7
+Change Component Designator: OldDesignator=ESD? NewDesignator=ESD8
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C30 1uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C52 1uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C53 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD6 Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD7 Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD8 Harwin Clips

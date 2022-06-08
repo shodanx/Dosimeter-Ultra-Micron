@@ -1,0 +1,4 @@
+Added Component: Designator=*(TPS78330DDCR)
+Added Component: Designator=U*(DFN-10 (3x3))
+Added Member To Class: ClassName=FEU31_Part3 Member=Component * TPS78330DDCR
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U* LT3045EDD

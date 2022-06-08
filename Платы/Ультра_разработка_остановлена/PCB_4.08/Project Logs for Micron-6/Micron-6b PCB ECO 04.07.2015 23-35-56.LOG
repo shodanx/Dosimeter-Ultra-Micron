@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q7-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R22-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=U1-26
+Added Component: Designator=R29(1608[0603])
+Added Component: Designator=R30(1608[0603])
+Added Pin To Net: NetName=NetQ2_1 Pin=R30-1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R29-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R29-2
+Added Pin To Net: NetName=NetR22_2 Pin=R30-2
+Added Pin To Net: NetName=NetR22_2 Pin=U1-26
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=Micron-6 Member=Component R29 0R
+Added Member To Class: ClassName=Micron-6 Member=Component R30 0R

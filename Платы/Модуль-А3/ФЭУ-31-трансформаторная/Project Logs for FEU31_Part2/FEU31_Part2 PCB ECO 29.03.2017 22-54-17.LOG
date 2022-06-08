@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=D2
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603]_CAP New Footprint=1608[0603]
+Change Component Comment : Designator=R5 Old Comment=3M New Comment=3.3M
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=3.92K
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=390K
+Change Component Comment : Designator=R8 Old Comment=150R New Comment=16R
+Change Component Comment : Designator=R7 Old Comment=390k New Comment=100k
+Added Component: Designator=C6(1608[0603])
+Added Pin To Net: NetName=VSENS Pin=C3-2
+Added Pin To Net: NetName=NetD2_2 Pin=C6-1
+Added Pin To Net: NetName=SIGOUT Pin=C6-2
+Change Net Name : Old Net Name=44MV New Net Name=12MV
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetC6_1
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C6 10pF

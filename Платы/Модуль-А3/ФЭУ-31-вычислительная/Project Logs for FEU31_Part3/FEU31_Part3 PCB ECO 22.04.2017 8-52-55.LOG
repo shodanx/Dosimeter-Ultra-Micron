@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=BAT Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=BAT Pin=C4-2
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=0402 AVX
+Change Component Footprint: Designator=C4 Old Footprint=1608[0603] New Footprint=0402 AVX
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=0402 AVX
+Added Pin To Net: NetName=BAT Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=BAT Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P? NewDesignator=Pulse_M
+Added Pin To Net: NetName=MAXPULSELEVEL Pin=Pulse_M-1
+Added Pin To Net: NetName=AGND Pin=Pulse_M-2
+Added Pin To Net: NetName=AGND Pin=Pulse_M-3
+Added Pin To Net: NetName=AGND Pin=Pulse_M-4
+Added Pin To Net: NetName=AGND Pin=Pulse_M-5

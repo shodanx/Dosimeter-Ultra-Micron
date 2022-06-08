@@ -1,0 +1,4 @@
+Added Component: Designator=Jumper(GND-AGND)
+Added Pin To Net: NetName=GND Pin=Jumper-1
+Added Pin To Net: NetName=AGND Pin=Jumper-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Jumper Value

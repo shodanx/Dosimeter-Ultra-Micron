@@ -1,0 +1,4 @@
+Added Component: Designator=Key(Sensor contact)
+Added Pin To Net: NetName=KEY_POWER_HOLD Pin=Key-1
+Added Pin To Net: NetName=KEY_POWER_HOLD Pin=U3-45
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Key 

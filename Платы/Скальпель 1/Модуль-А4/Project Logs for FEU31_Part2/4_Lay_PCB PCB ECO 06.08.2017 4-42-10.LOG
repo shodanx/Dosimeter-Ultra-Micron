@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR11_1 Pin=U?-1
+Removed Pin From Net: NetName=PEAKVOLTAGE Pin=U?-2
+Removed Pin From Net: NetName=PREAMPSIGOUT Pin=U?-3
+Removed Pin From Net: NetName=-2.5ANALOG Pin=U?-4
+Removed Pin From Net: NetName=+2.5ANALOG Pin=U?-8
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Added Pin To Net: NetName=NetR11_1 Pin=U5-1
+Added Pin To Net: NetName=PEAKVOLTAGE Pin=U5-2
+Added Pin To Net: NetName=PREAMPSIGOUT Pin=U5-3

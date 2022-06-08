@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADC_START Pin=U11-41
+Removed Pin From Net: NetName=MCU_CONTROL1 Pin=U11-42
+Added Pin To Net: NetName=MCU_CONTROL1 Pin=P1-2
+Added Pin To Net: NetName=ADC_START Pin=P1-4
+Added Pin To Net: NetName=MCU_CONTROL1 Pin=U11-5
+Added Pin To Net: NetName=ADC_START Pin=U11-6

@@ -1,0 +1,3 @@
+Added Component: Designator=Anode(PIN1)
+Added Pin To Net: NetName=ANODE Pin=Anode-1
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Anode

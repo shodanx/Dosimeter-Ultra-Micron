@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=BAT Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=POWERcon-2
+Removed Pin From Net: NetName=NetC39_1 Pin=POWERcon-3
+Removed Pin From Net: NetName=GND Pin=SNDcon-1
+Removed Pin From Net: NetName=BAT Pin=SWcon-1
+Removed Member From Class: ClassName=Умножитель Member=POWERcon
+Removed Member From Class: ClassName=Умножитель Member=SNDcon
+Removed Member From Class: ClassName=Умножитель Member=SWcon
+Added Component: Designator=P1(HDR1X6)
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=BAT Pin=P1-3
+Added Pin To Net: NetName=NetC39_1 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=P1-2
+Added Pin To Net: NetName=NetC42_1 Pin=U4-1
+Added Pin To Net: NetName=NetC42_1 Pin=U4-3
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=Q2-3
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R19-2
+Added Net: Name=NetP1_5
+Added Member To Class: ClassName=Умножитель Member=Component P1 Header 6

@@ -1,0 +1,52 @@
+Added Component: Designator=C57(C1206)
+Added Component: Designator=C58(0805_CAP)
+Added Component: Designator=C59(0805_CAP)
+Added Component: Designator=C60(0805_CAP)
+Added Component: Designator=C61(0805_CAP)
+Added Component: Designator=C62(0805_CAP)
+Added Component: Designator=C63(0805_CAP)
+Added Component: Designator=C64(0805_CAP)
+Added Component: Designator=C65(0805_CAP)
+Added Component: Designator=C66(0805_CAP)
+Added Component: Designator=C67(0805_CAP)
+Added Component: Designator=C68(0805_CAP)
+Added Component: Designator=C69(0805_CAP)
+Added Pin To Net: NetName=NetC1_1 Pin=C57-1
+Added Pin To Net: NetName=PUMP Pin=C57-2
+Added Pin To Net: NetName=NetC2_1 Pin=C58-1
+Added Pin To Net: NetName=NetC1_1 Pin=C58-2
+Added Pin To Net: NetName=NetC3_1 Pin=C59-1
+Added Pin To Net: NetName=NetC2_1 Pin=C59-2
+Added Pin To Net: NetName=NetC4_1 Pin=C60-1
+Added Pin To Net: NetName=NetC3_1 Pin=C60-2
+Added Pin To Net: NetName=NetC5_1 Pin=C61-1
+Added Pin To Net: NetName=NetC4_1 Pin=C61-2
+Added Pin To Net: NetName=NetC6_1 Pin=C62-1
+Added Pin To Net: NetName=NetC5_1 Pin=C62-2
+Added Pin To Net: NetName=NetC7_1 Pin=C63-1
+Added Pin To Net: NetName=NetC6_1 Pin=C63-2
+Added Pin To Net: NetName=NetC8_1 Pin=C64-1
+Added Pin To Net: NetName=NetC7_1 Pin=C64-2
+Added Pin To Net: NetName=NetC9_1 Pin=C65-1
+Added Pin To Net: NetName=NetC8_1 Pin=C65-2
+Added Pin To Net: NetName=NetC10_1 Pin=C66-1
+Added Pin To Net: NetName=NetC9_1 Pin=C66-2
+Added Pin To Net: NetName=NetC11_1 Pin=C67-1
+Added Pin To Net: NetName=NetC10_1 Pin=C67-2
+Added Pin To Net: NetName=NetC12_1 Pin=C68-1
+Added Pin To Net: NetName=NetC11_1 Pin=C68-2
+Added Pin To Net: NetName=NetC13_1 Pin=C69-1
+Added Pin To Net: NetName=NetC12_1 Pin=C69-2
+Added Member To Class: ClassName=Умножитель Member=Component C57 100nF
+Added Member To Class: ClassName=Умножитель Member=Component C58 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C59 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C60 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C61 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C62 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C63 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C64 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C65 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C66 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C67 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C68 47nF
+Added Member To Class: ClassName=Умножитель Member=Component C69 47nF

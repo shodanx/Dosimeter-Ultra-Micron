@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+5ANALOG Pin=C30-1
+Removed Pin From Net: NetName=AGND Pin=C30-2
+Removed Pin From Net: NetName=+5ANALOG Pin=C43-1
+Removed Pin From Net: NetName=AGND Pin=C43-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=C30
+Removed Member From Class: ClassName=FEU31_Part2 Member=C43
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Pin To Net: NetName=+5ANALOG Pin=C?-1
+Added Pin To Net: NetName=+5ANALOG Pin=C?-1
+Added Pin To Net: NetName=+5ANALOG Pin=C?-1
+Added Pin To Net: NetName=+5ANALOG Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C? 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C? 1uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C? 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C? 1uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips

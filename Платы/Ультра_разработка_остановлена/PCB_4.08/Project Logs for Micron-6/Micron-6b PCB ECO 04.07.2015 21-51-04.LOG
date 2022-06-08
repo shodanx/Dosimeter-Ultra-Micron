@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+LED Pin=C25-2
+Removed Pin From Net: NetName=NetKEY2_4 Pin=KEY2-3
+Removed Pin From Net: NetName=NetKEY2_4 Pin=KEY2-3
+Removed Pin From Net: NetName=GND Pin=KEY2-4
+Removed Pin From Net: NetName=GND Pin=KEY2-4
+Removed Pin From Net: NetName=NetQ2_1 Pin=R29-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R30-2
+Change Component Footprint: Designator=R25 Old Footprint=RESISTOR New Footprint=1608[0603]
+Change Component Comment : Designator=R25 Old Comment=360R New Comment=15R
+Added Component: Designator=C20(0402 AVX)
+Added Component: Designator=Logo(Logo Micron)
+Added Pin To Net: NetName=+3V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=KEY2-3
+Added Pin To Net: NetName=GND Pin=KEY2-3
+Added Pin To Net: NetName=NetKEY2_4 Pin=KEY2-4
+Added Pin To Net: NetName=NetKEY2_4 Pin=KEY2-4
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q7-1
+Added Member To Class: ClassName=Micron-6 Member=Component C20 1uF
+Added Member To Class: ClassName=Micron-6 Member=Component Logo 
+Added Member To Class: ClassName=Micron-6 Member=Component R25 15R

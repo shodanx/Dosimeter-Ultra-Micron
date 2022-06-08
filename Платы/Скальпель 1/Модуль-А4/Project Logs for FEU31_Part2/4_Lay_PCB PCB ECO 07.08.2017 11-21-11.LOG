@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=U10-1
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=U10-2
+Removed Pin From Net: NetName=NetR22_2 Pin=U10-3
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=U10-4
+Removed Pin From Net: NetName=GND Pin=U10-5
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=U10-6
+Removed Pin From Net: NetName=NetC61_1 Pin=U10-7
+Removed Pin From Net: NetName=GND Pin=U10-8
+Removed Pin From Net: NetName=-2.5ANALOG Pin=U10-9
+Removed Pin From Net: NetName=-2.5ANALOG Pin=U10-10
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=U10-11
+Change Component Footprint: Designator=U9 Old Footprint=VQG44_N New Footprint=DFN-10_DD
+Change Component Comment : Designator=U9 Old Comment=XC9572XL-10VQG44C New Comment=LT3090EDD
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U9-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U9-2
+Added Pin To Net: NetName=NetR22_2 Pin=U9-3
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U9-6
+Added Pin To Net: NetName=NetC61_1 Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=-2.5ANALOG Pin=U9-9
+Added Pin To Net: NetName=-2.5ANALOG Pin=U9-10
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U9-11
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C59 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C60 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C61 100nF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R22 10K
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R23 49.9K
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U9 LT3090EDD

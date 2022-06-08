@@ -1,0 +1,15 @@
+Added Component: Designator=P?(HDR2X6)
+Added Pin To Net: NetName=DINODE 1 Pin=P?-1
+Added Pin To Net: NetName=DINODE 2 Pin=P?-2
+Added Pin To Net: NetName=DINODE 3 Pin=P?-3
+Added Pin To Net: NetName=DINODE 4 Pin=P?-4
+Added Pin To Net: NetName=DINODE 5 Pin=P?-5
+Added Pin To Net: NetName=DINODE 6 Pin=P?-6
+Added Pin To Net: NetName=DINODE 7 Pin=P?-7
+Added Pin To Net: NetName=DINODE 8 Pin=P?-8
+Added Pin To Net: NetName=DINODE 9 Pin=P?-9
+Added Pin To Net: NetName=DINODE 10 Pin=P?-10
+Added Pin To Net: NetName=DINODE 11 Pin=P?-11
+Added Pin To Net: NetName=DINODE 12 Pin=P?-12
+Added Member To Class: ClassName=Умножитель Member=Component C13 10nF
+Added Member To Class: ClassName=Умножитель Member=Component P? Header 6X2

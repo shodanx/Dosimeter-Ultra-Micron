@@ -1,0 +1,52 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Order~String~Order~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FEU31_Part2.PrjPcb|ReportField=ProjectFullPath~C:\Users\123\Desktop\Платы\Ультра-микрон\Скальпель 2\FEU31_Part2.PrjPcb|ReportField=Title~Bill of Materials For Project [FEU31_Part2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~171|ReportField=ReportTime~14:37:35|ReportField=ReportDate~01.09.2017|ReportField=ReportDateTime~01.09.2017 14:37:35|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~(с) Быканов Андрей|ReportField=Address2~г.Тула 2016г.|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~01.09.2017|ReportField=CurrentTime~14:36:28|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\123\Desktop\Платы\Ультра-микрон\Скальпель 2\CPLD.SchDoc|ReportField=DocumentName~CPLD.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~01.09.2017|ReportField=Organization~|ReportField=ProjectName~FEU31_Part2.PrjPcb|ReportField=Revision~1.3|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Скальпель|ReportField=DataSourceFileName~FEU31_Part2.PrjPcb|ReportField=DataSourceFullPath~C:\Users\123\Desktop\Платы\Ультра-микрон\Скальпель 2\FEU31_Part2.PrjPcb
+1|Capacitor (Semiconductor SIM Model)|C1|CC0603JRNPO9BN101
+2|Capacitor (Semiconductor SIM Model)|C2, C54, C57, C59, C60, C72, C76|GRM31CR71A475KA01L
+3|Capacitor (Semiconductor SIM Model)|C3, C56, C74, C77|GRM31CR61A476ME15L
+4|Capacitor (Semiconductor SIM Model)|C4, C45|CC0603JRNPO9BN102
+5|Capacitor (Semiconductor SIM Model)|C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42|CGA5L4X7T2W104K
+6|Capacitor (Semiconductor SIM Model)|C30, C46, C47, C48, C52, C62, C64, C65, C67, C69, C80|CC0603KRX5R7BB105
+7|Capacitor (Semiconductor SIM Model)|C43, C49, C50, C51, C53, C55, C58, C61, C66, C68, C70, C79, C81|GRM188R72A104KA35D
+8|Capacitor (Semiconductor SIM Model)|C44|VJ0805D102KXAAJ
+9|Capacitor (Semiconductor SIM Model)|C63|GRM188R71H103KA01D
+10|Capacitor (Semiconductor SIM Model)|C71, C75|GRM188R71C474KA88D
+11|Capacitor (Semiconductor SIM Model)|C73|CC0603JRNPO9BN471
+12|Capacitor (Semiconductor SIM Model)|C78|GRM1885C1H331JA01D
+13||D1|PMEG4010BEA
+14|Default Diode|D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26|DA2JF8100L
+15|Default Diode|D28|DB2S316
+16|Default Diode|D30, D31|VS-10BQ030-M3/5BT
+17||ESD1, ESD2, ESD3, ESD4, ESD5, ESD6, ESD7, ESD8|S0981-46R
+18|Inductor|L1, L2|SLF10145T-100M2R5-PF
+19|RF Coaxial PCB Connector, MMCX; Thru-Hole, Vertical Mount Plug,  50 Ohm Impedance|Pulse_M|MMCX PCB
+20|HEXFET Power MOSFET|Q1|IRLML6344
+21|HEXFET Power MOSFET|Q2|RUM002N05T2L
+22||R1|RC0603JR-07820RL
+23||R2, R4|RC0603JR-07100RL
+24||R3|RC0603JR-0712RL
+25||R5|RC0603FR-0747KL
+26||R6|CAT16-470J4LF
+27||R7|CDHVAF1G00G5000GET
+28||R8, R9, R10|MC4-1003JE
+29||R11, R12, R13, R18|ERA-3AEB49R9V
+30||R14|ERA-3AEB2213V
+31||R15, R19, R20, R21|ERA-3AEB2493V
+32||R16, R34, R35|ERA-3AEB473V
+33||R17, R26, R30|ERA-3AEB104V
+34||R22|ERA-3AEB103V
+35||R23|ERA-3AEB4992V
+36||R24|ERA-3AEB1402V
+37||R25, R29|ERA-3AEB3093V
+38||R27, R31|ERA-3AEB6812V
+39||R28|ERA-3AEB1402V
+40||T1|ATB322524
+41|Imported|U1|LTC1655CS8
+42|Single Channel, Low Noise, CMOS Operational Amplifier, RRO, 18 MHz Typical GBW, 10 V/us Typical SR, 2.8 to 6 V, 8-Pin SOIC (S8-8), Commercial, Pb-Free|U2, U3|LTC6240CS8
+43|Imported|U4|LTC6268HS8
+44|Dual Channel, Power Efficient Operational Amplifier, RRIO, 720 MHz Typical GBW, 280 V/us Typical SR, 2.5 to 5.25 V, 8-Pin SOP (MS8-8), Industrial, Pb-Free|U5|LTC6253IMS8
+45|4.5 ns, 3 V / 5 V / + / - 5 V, Rail-to-Rail Comparator, 1 Channel, 2.4 to 12 V or + / - 2.4 to + / - 6 V, 0 to +70 degC, 8-pin Plastic MSOP (MS8)|U6|LT1711CMS8
+46|Adjustable 500 mA Single Resistor Low Dropout Regulator, 0.3 mA Isupply, 6-pin SON (DCB-6), -40 to 125 degC, Pb-Free|U7, U8|LT3085EDCB
+47|Imported|U9|LT3090EDD
+48|100 mA, Low Noise, LDO Micropower Regulator, 1.8 to 20 V Vin, 3 V Vout, 5-pin SOT23 (S5-5), -40 to 125 degC|U10|LT1761ES5-3
+49|FastFLASH XC900XL, 3.3V High-Performance 72 Macrocell CPLD, 34 User I/Os, 44-Pin VQFP, Speed Grade 10, Commercial Grade, Pb-Free|U11|XC9572XL-10VQG44C
+50|2 A, 2.4 MHz Step-Down Switching Regulator with 70 uA Quiescent Current, 10-pin SON (DD-10), -40 to 85 degC, Pb-Free|U12, U13|LT3480EDD
+51||Z1|ASDMB-50.000MHZ-LC-T

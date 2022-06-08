@@ -1,0 +1,8 @@
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Component: Designator=C?(1608[0603]_CAP)
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=CPLD Member=Component C? 1uF
+Added Member To Class: ClassName=CPLD Member=Component C? 100nF

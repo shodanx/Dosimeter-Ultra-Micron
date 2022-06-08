@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEU31_Part1.PrjPcb]
+   Generated File[FEU31_Part1.TXT]
+   Generated File[FEU31_Part1.LDP]
+   Generated File[FEU31_Part1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:40:47 On 18.04.2017

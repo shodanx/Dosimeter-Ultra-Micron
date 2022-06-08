@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=LX1 Old Footprint=Resistor New Footprint=1608[0603]
+Change Component Footprint: Designator=LX2 Old Footprint=Resistor New Footprint=1608[0603]
+Change Component Comment : Designator=LX1 Old Comment=22uH New Comment=2.2uH
+Change Component Comment : Designator=LX2 Old Comment=22uH New Comment=2.2uH
+Change Component Comment : Designator=R9 Old Comment=47K New Comment=3.3K
+Change Component Comment : Designator=R8 Old Comment=470R New Comment=150R
+Change Component Comment : Designator=U2 Old Comment=AD8515ARTZ New Comment=OPA353NA
+Change Net Name : Old Net Name=0,033Â New Net Name=130MV

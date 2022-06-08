@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=C_SEG_E Pin=U3-2
+Removed Pin From Net: NetName=C_SEG_A Pin=U3-11
+Removed Pin From Net: NetName=C_SEG_D Pin=U3-12
+Removed Pin From Net: NetName=C_SEG_B Pin=U3-13
+Added Pin To Net: NetName=C_SEG_E Pin=U3-12
+Added Pin To Net: NetName=C_SEG_A Pin=U3-13
+Added Pin To Net: NetName=C_SEG_D Pin=U3-16
+Added Pin To Net: NetName=C_SEG_B Pin=U3-17

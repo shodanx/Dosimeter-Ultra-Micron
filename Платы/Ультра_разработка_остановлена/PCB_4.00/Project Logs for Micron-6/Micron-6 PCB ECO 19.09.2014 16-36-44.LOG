@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetBatt+1_1 Pin=Batt+1-1
+Removed Pin From Net: NetName=GND Pin=Batt-1-1
+Removed Member From Class: ClassName=Micron-6 Member=Batt+1
+Removed Member From Class: ClassName=Micron-6 Member=Batt-1
+Added Component: Designator=Batt+(Sensor contact)
+Added Component: Designator=Batt-(Sensor contact)
+Added Pin To Net: NetName=NetBatt+1_1 Pin=Batt+-1
+Added Pin To Net: NetName=GND Pin=Batt--1
+Change Net Name : Old Net Name=NetBatt+1_1 New Net Name=NetBatt+_1
+Added Member To Class: ClassName=Micron-6 Member=Component Batt+ 
+Added Member To Class: ClassName=Micron-6 Member=Component Batt- 

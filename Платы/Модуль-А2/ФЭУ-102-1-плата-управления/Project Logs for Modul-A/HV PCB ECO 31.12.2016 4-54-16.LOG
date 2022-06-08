@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=47K
+Change Component Comment : Designator=R8 Old Comment=200K New Comment=150K
+Change Component Comment : Designator=R10 Old Comment=390K New Comment=1M
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Pin To Net: NetName=VCC_IN Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC_IN Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R5-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Умножитель Member=Component C3 47uF
+Added Member To Class: ClassName=Умножитель Member=Component C4 47uF

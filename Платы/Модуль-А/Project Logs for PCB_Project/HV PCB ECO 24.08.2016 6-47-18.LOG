@@ -1,0 +1,44 @@
+Change Component Comment : Designator=C1 Old Comment=4.7nF New Comment=100nF
+Change Component Comment : Designator=C14 Old Comment=4.7nF New Comment=100nF
+Change Component Comment : Designator=C15 Old Comment=4.7nF New Comment=100nF
+Change Component Comment : Designator=C28 Old Comment=4.7uF 25V New Comment=4.7uF
+Change Component Comment : Designator=C36 Old Comment=4.7uF 25V New Comment=4.7uF
+Change Component Comment : Designator=C2 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C3 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C4 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C5 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C6 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C7 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C8 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C9 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C10 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C11 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C12 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C13 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C16 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C17 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C18 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C19 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C20 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C21 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C22 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C23 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C24 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C25 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C26 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=C27 Old Comment=10nF New Comment=47nF
+Change Component Comment : Designator=R10 Old Comment=15M New Comment=390K
+Change Component Comment : Designator=T1 Old Comment=Epcos ER9.5/5 New Comment=BAT-ER9-01
+Change Component Comment : Designator=LX1 Old Comment=Ferrite beard New Comment=22uH
+Change Component Comment : Designator=LX2 Old Comment=Ferrite beard New Comment=22uH
+Change Component Comment : Designator=LX3 Old Comment=Ferrite beard New Comment=22uH
+Change Component Comment : Designator=R3 Old Comment=Res Tap New Comment=100K
+Change Component Comment : Designator=R13 Old Comment=Res Tap New Comment=100K
+Change Component Kind : Designator=SWcon Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=SNDcon Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Sig Out Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=POWERcon Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=M FK Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Dinode Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Anode Old Kind=Standard New Kind=Standard (No BOM)
+Added Room: Name=Умножитель

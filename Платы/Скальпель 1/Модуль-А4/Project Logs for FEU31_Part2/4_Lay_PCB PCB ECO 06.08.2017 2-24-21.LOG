@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=UP4 Pin=C34-1
+Removed Pin From Net: NetName=UP4 Pin=C35-2
+Removed Pin From Net: NetName=UP1 Pin=R8-1
+Removed Pin From Net: NetName=UP2 Pin=R8-2
+Removed Pin From Net: NetName=UP3 Pin=R8-3
+Removed Pin From Net: NetName=UP4 Pin=R8-4
+Removed Pin From Net: NetName=NetC18_1 Pin=R8-5
+Removed Pin From Net: NetName=NetC19_1 Pin=R8-6
+Removed Pin From Net: NetName=NetC20_1 Pin=R8-7
+Removed Pin From Net: NetName=NetC21_1 Pin=R8-8
+Removed Member From Class: ClassName=FEU31_Part2 Member=R8
+Added Component: Designator=R?(MC4)
+Added Pin To Net: NetName=UP3 Pin=R?-2
+Added Pin To Net: NetName=UP2 Pin=R?-3
+Added Pin To Net: NetName=UP1 Pin=R?-4
+Added Pin To Net: NetName=NetC21_1 Pin=R?-5
+Added Pin To Net: NetName=NetC20_1 Pin=R?-6
+Added Pin To Net: NetName=NetC19_1 Pin=R?-7
+Added Pin To Net: NetName=NetC18_1 Pin=R?-8
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=C35-2
+Added Pin To Net: NetName=NetC34_1 Pin=R?-1
+Added Net: Name=NetC34_1
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R? MC4-1003JE

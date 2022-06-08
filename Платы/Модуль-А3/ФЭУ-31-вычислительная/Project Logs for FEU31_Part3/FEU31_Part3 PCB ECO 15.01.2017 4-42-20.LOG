@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=C10 Old Footprint=1608[0603]_CAP New Footprint=1608[0603]
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=10nF
+Change Component Designator: OldDesignator=Q? NewDesignator=Q12
+Added Component: Designator=C9(1608[0603])
+Added Component: Designator=C11(1608[0603])
+Added Component: Designator=C12(1608[0603])
+Added Component: Designator=C13(1608[0603])
+Added Component: Designator=C14(1608[0603])
+Added Pin To Net: NetName=AVCC Pin=C9-1
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AVCC Pin=C11-1
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=NetC10_1 Pin=C12-1
+Added Pin To Net: NetName=AGND Pin=C12-2
+Added Pin To Net: NetName=AVCC Pin=C13-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=AVCC Pin=C14-1
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C9 10nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C11 10uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C12 10uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C13 10nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C14 10uF

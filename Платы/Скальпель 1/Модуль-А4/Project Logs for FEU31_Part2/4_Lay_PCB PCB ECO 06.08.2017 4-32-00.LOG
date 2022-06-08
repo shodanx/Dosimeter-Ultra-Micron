@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ANODE Pin=R14-2
+Removed Pin From Net: NetName=ANODE Pin=U4-2
+Added Component: Designator=R?(1608[0603]_RES)
+Added Pin To Net: NetName=ANODE Pin=R?-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R?-2
+Added Pin To Net: NetName=NetR14_2 Pin=U4-2
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component ESD? Harwin Clips
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R? 49.9R

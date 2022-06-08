@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MAXPULSELEVEL Pin=U5-1
+Removed Pin From Net: NetName=MAXPULSELEVEL Pin=U5-2
+Removed Pin From Net: NetName=PEAKVOLTAGE Pin=U5-3
+Removed Pin From Net: NetName=-2.5ANALOG Pin=U5-4
+Removed Pin From Net: NetName=PREAMPSIGOUT Pin=U5-5
+Removed Pin From Net: NetName=PEAKVOLTAGE Pin=U5-6
+Removed Pin From Net: NetName=NetR11_1 Pin=U5-7
+Removed Pin From Net: NetName=+2.5ANALOG Pin=U5-8
+Removed Member From Class: ClassName=FEU31_Part2 Member=U5
+Added Component: Designator=U?(LT-MS8-8_N)
+Added Component: Designator=U?(LT-MS8-8_N)
+Added Pin To Net: NetName=NetR11_1 Pin=U?-1
+Added Pin To Net: NetName=PEAKVOLTAGE Pin=U?-2
+Added Pin To Net: NetName=PREAMPSIGOUT Pin=U?-3
+Added Pin To Net: NetName=-2.5ANALOG Pin=U?-4
+Added Pin To Net: NetName=-2.5ANALOG Pin=U?-4
+Added Pin To Net: NetName=PEAKVOLTAGE Pin=U?-5
+Added Pin To Net: NetName=MAXPULSELEVEL Pin=U?-6
+Added Pin To Net: NetName=MAXPULSELEVEL Pin=U?-7
+Added Pin To Net: NetName=+2.5ANALOG Pin=U?-8
+Added Pin To Net: NetName=+2.5ANALOG Pin=U?-8
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U? LTC6253IMS8#PBF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U? LTC6253IMS8#PBF

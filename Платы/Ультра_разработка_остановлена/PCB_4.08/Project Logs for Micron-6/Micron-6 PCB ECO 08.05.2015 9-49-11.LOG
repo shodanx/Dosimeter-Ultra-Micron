@@ -1,0 +1,4 @@
+Added Component: Designator=R22(1608[0603])
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R22-2
+Added Member To Class: ClassName=Micron-6 Member=Component R22 100k

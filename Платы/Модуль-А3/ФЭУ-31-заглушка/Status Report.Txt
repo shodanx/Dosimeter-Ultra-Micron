@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Труба_сенсор.TXT]
+   Generated File[Труба_сенсор.LDP]
+   Generated File[Труба_сенсор.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:53:19 On 14.05.2017

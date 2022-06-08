@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetQ4_3 Pin=R17-1
+Removed Pin From Net: NetName=NetR16_2 Pin=R17-2
+Removed Pin From Net: NetName=NetR16_1 Pin=R18-2
+Removed Pin From Net: NetName=NetR16_2 Pin=R20-1
+Removed Pin From Net: NetName=NetR16_1 Pin=U5-7
+Removed Pin From Net: NetName=NetR16_2 Pin=U5-9
+Change Component DesignItemId : Designator=R16 Old DesignItemId=Res3 New DesignItemId=Resistor 0805
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res3 New DesignItemId=Resistor 0805
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res3 New DesignItemId=Resistor 0805
+Change Component Footprint: Designator=R16 Old Footprint=J1-0603 New Footprint=1608[0603]
+Change Component Footprint: Designator=R17 Old Footprint=J1-0603 New Footprint=1608[0603]
+Change Component Footprint: Designator=R18 Old Footprint=J1-0603 New Footprint=1608[0603]
+Added Pin To Net: NetName=NetR16_1 Pin=R17-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R17-2
+Added Pin To Net: NetName=NetR16_2 Pin=R18-2
+Added Pin To Net: NetName=NetR16_1 Pin=R20-1
+Added Pin To Net: NetName=NetR16_2 Pin=U5-7
+Added Pin To Net: NetName=NetR16_1 Pin=U5-9

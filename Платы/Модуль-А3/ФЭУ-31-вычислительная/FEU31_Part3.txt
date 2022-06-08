@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=Order~String~Order~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For Schematic Document [FEU31_Part3.SchDoc]|ReportField=TotalQuantity~69|ReportField=ReportTime~17:24:59|ReportField=ReportDate~02.04.2017|ReportField=ReportDateTime~02.04.2017 17:24:59|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~(с) Быканов Андрей|ReportField=Address2~г.Тула 2016г.|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02.04.2017|ReportField=CurrentTime~17:24:18|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\123\Desktop\Платы\Ультра-микрон\Модуль-А3\ФЭУ-31-вычислительная\FEU31_Part3.SchDoc|ReportField=DocumentName~FEU31_Part3.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02.04.2017|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~1.3|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Интерфейсный модуль ФЭУ-31|ReportField=DataSourceFileName~FEU31_Part3.SchDoc|ReportField=DataSourceFullPath~C:\Users\123\Desktop\Платы\Ультра-микрон\Модуль-А3\ФЭУ-31-вычислительная\FEU31_Part3.SchDoc
+1|Plug|Batt-1, CLK, IO, Key|Plug||4
+2|7-segment 3x indicator|DS1|FYT-2531BUHR-12_1||1
+3|Header, 3-Pin, Dual row|P2|Header 3X2||1
+4||U10|TPS78330DDCR||1
+5|Capacitor (Semiconductor SIM Model)|C6, C15, C16, C17, C20|Cap Semi|0402ZD104KAT2A|5
+6|Schottky Barrier Double Diode|D2|BAT54C|BAR43C|1
+7|Capacitor (Semiconductor SIM Model)|C1, C19|Cap Semi|CC0402KRX5R5BB105|2
+8|Capacitor (Semiconductor SIM Model)|C8|Cap Semi|CC0603JRNPO9BN471|1
+9||S1|CMT-7525S-SMT|CMT-7525S-SMT|1
+10||Z1|8MHZ_cap|CSTCE8M00G55-R0|1
+11|Plug|Batt+1|Plug|EEMB LP401230|1
+12|Capacitor (Semiconductor SIM Model)|C21|Cap Semi|GRM31CR71C475KA01L|1
+13|Capacitor (Semiconductor SIM Model)|C23|Cap Semi|GRM32DR71C106KA01L|1
+14|Capacitor (Semiconductor SIM Model)|C5, C11, C14, C18, C22|Cap Semi|GRM188R60J106ME47D|5
+15|Capacitor (Semiconductor SIM Model)|C2|CAPACITOR|GRM188R60J106ME47D|1
+16|Capacitor (Semiconductor SIM Model)|C3, C4, C7|CAPACITOR, CAPACITOR, Cap Semi|GRM188R71E104KA01D|3
+17|Capacitor (Semiconductor SIM Model)|C9, C13|Cap Semi|GRM188R71H103KA01D|2
+18|45 nsec, Ultra Low Power, Low Voltage, Rail-to-Rail Input Comparator with Open-Drain/Push-Pull Output, 5-pin SOT-23|U5|LMV7239M5|LMV7239M5|1
+19||U6|LT3045EDD|LT3045EDD|1
+20|Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel|U2|MCP73831T-2ACI/OT|MCP73831T-2ACI/OT|1
+21|USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, SMT, 0.80mm (.031") Pitch, Solder Tabs with Back Cover, Recessed Type|J1|0481900001|Molex 47346-0001|1
+22||R17|Resistor 0805|RC0603FR-073K92L|1
+23||R21|Resistor 0805|RC0603FR-076RL|1
+24||R23|Resistor 0805|RC0603FR-100KL|1
+25||R7|Resistor 0805|RC0603FR-0724R9L|1
+26||R1|Resistor 0805|RC0603FR-0730K1L|1
+27||R2, R8, R18, R22, R24|Resistor 0805|RC0603FR-1010KL|5
+28||R3, R4|Resistor 0805|RC0603JR-122RL|2
+29|Resistor|R6|Res3|RC0603JR-0762KL|1
+30||R9, R10, R11, R12, R13, R14, R15|Resistor 0805|RC0603JR-07270RL|7
+31||R5|Resistor 0805|RC0805FR-0720RL|1
+32|HEXFET Power MOSFET|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q11|IRLML2402|RUM002N05T2L|8
+33|HEXFET Power MOSFET|Q8, Q9, Q10|IRLML6401|RZM002P02T2L|3
+34||U3|STM32L152CBU6|STM32L152CBU6|1

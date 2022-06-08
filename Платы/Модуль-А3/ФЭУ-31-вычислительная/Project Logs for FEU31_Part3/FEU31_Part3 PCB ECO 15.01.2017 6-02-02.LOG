@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C16 100nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C17 100nF

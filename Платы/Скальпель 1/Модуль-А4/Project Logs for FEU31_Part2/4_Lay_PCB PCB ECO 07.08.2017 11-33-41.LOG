@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=V_IN Pin=P1-1
+Removed Pin From Net: NetName=VDIGISETCANCLK Pin=P1-2
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=P1-3
+Removed Pin From Net: NetName=VDIGISETCANDIN Pin=P1-4
+Removed Pin From Net: NetName=VDIGISETCANCS Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Member From Class: ClassName=FEU31_Part2 Member=P1
+Added Component: Designator=P?(HDR2X4)
+Added Pin To Net: NetName=VDIGISETCANCS Pin=P?-1
+Added Pin To Net: NetName=VDIGISETCANDIN Pin=P?-2
+Added Pin To Net: NetName=VDIGISETCANCLK Pin=P?-4
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=P?-5
+Added Pin To Net: NetName=V_IN Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P? Header 4X2

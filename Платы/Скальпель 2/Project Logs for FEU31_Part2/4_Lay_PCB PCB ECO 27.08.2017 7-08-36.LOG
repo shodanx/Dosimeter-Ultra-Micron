@@ -1,0 +1,107 @@
+Removed Member From Class: ClassName=CPLD Member=C1
+Removed Member From Class: ClassName=CPLD Member=C2
+Removed Member From Class: ClassName=CPLD Member=C3
+Removed Member From Class: ClassName=CPLD Member=C4
+Removed Member From Class: ClassName=CPLD Member=C5
+Removed Member From Class: ClassName=CPLD Member=C6
+Removed Member From Class: ClassName=CPLD Member=C7
+Removed Member From Class: ClassName=CPLD Member=C8
+Removed Member From Class: ClassName=CPLD Member=C9
+Removed Member From Class: ClassName=CPLD Member=C10
+Removed Member From Class: ClassName=CPLD Member=C11
+Removed Member From Class: ClassName=CPLD Member=C12
+Removed Member From Class: ClassName=CPLD Member=C13
+Removed Member From Class: ClassName=CPLD Member=C14
+Removed Member From Class: ClassName=CPLD Member=D1
+Removed Member From Class: ClassName=CPLD Member=D2
+Removed Member From Class: ClassName=CPLD Member=P2
+Removed Member From Class: ClassName=CPLD Member=R1
+Removed Member From Class: ClassName=CPLD Member=R2
+Removed Member From Class: ClassName=CPLD Member=R3
+Removed Member From Class: ClassName=CPLD Member=R4
+Removed Member From Class: ClassName=CPLD Member=R5
+Removed Member From Class: ClassName=CPLD Member=R6
+Removed Member From Class: ClassName=CPLD Member=R7
+Removed Member From Class: ClassName=CPLD Member=R8
+Removed Member From Class: ClassName=CPLD Member=U1
+Removed Member From Class: ClassName=CPLD Member=U2
+Removed Member From Class: ClassName=CPLD Member=U3
+Change Component Designator: OldDesignator=C1 NewDesignator=C67
+Change Component Designator: OldDesignator=C2 NewDesignator=C68
+Change Component Designator: OldDesignator=C3 NewDesignator=C69
+Change Component Designator: OldDesignator=C4 NewDesignator=C70
+Change Component Designator: OldDesignator=C5 NewDesignator=C65
+Change Component Designator: OldDesignator=C6 NewDesignator=C66
+Change Component Designator: OldDesignator=C7 NewDesignator=C71
+Change Component Designator: OldDesignator=C8 NewDesignator=C72
+Change Component Designator: OldDesignator=C9 NewDesignator=C73
+Change Component Designator: OldDesignator=C10 NewDesignator=C74
+Change Component Designator: OldDesignator=C11 NewDesignator=C75
+Change Component Designator: OldDesignator=C12 NewDesignator=C76
+Change Component Designator: OldDesignator=C13 NewDesignator=C77
+Change Component Designator: OldDesignator=C14 NewDesignator=C78
+Change Component Designator: OldDesignator=D1 NewDesignator=D30
+Change Component Designator: OldDesignator=D2 NewDesignator=D31
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R1 NewDesignator=R24
+Change Component Designator: OldDesignator=R2 NewDesignator=R25
+Change Component Designator: OldDesignator=R3 NewDesignator=R26
+Change Component Designator: OldDesignator=R4 NewDesignator=R27
+Change Component Designator: OldDesignator=R5 NewDesignator=R28
+Change Component Designator: OldDesignator=R6 NewDesignator=R29
+Change Component Designator: OldDesignator=R7 NewDesignator=R30
+Change Component Designator: OldDesignator=R8 NewDesignator=R31
+Change Component Designator: OldDesignator=U1 NewDesignator=U11
+Change Component Designator: OldDesignator=U2 NewDesignator=U12
+Change Component Designator: OldDesignator=U3 NewDesignator=U13
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC71_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC75_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR31_2
+Added Pin To Net: NetName=NetC71_1 Pin=C71-1
+Added Pin To Net: NetName=NetC71_1 Pin=U12-2
+Added Net: Name=NetC71_1
+Added Pin To Net: NetName=NetC73_1 Pin=C73-1
+Added Pin To Net: NetName=NetC73_1 Pin=R24-1
+Added Net: Name=NetC73_1
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=U13-2
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC78_1 Pin=C78-1
+Added Pin To Net: NetName=NetC78_1 Pin=R28-1
+Added Net: Name=NetC78_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R30-2
+Added Pin To Net: NetName=NetR29_1 Pin=U13-8
+Added Net: Name=NetR29_1
+Added Member To Class: ClassName=CPLD Member=Component C65 1uF
+Added Member To Class: ClassName=CPLD Member=Component C66 100nF
+Added Member To Class: ClassName=CPLD Member=Component C67 1uF
+Added Member To Class: ClassName=CPLD Member=Component C68 100nF
+Added Member To Class: ClassName=CPLD Member=Component C69 1uF
+Added Member To Class: ClassName=CPLD Member=Component C70 100nF
+Added Member To Class: ClassName=CPLD Member=Component C71 470nF
+Added Member To Class: ClassName=CPLD Member=Component C72 4.7uF
+Added Member To Class: ClassName=CPLD Member=Component C73 470pF
+Added Member To Class: ClassName=CPLD Member=Component C74 47uF
+Added Member To Class: ClassName=CPLD Member=Component C75 470nF
+Added Member To Class: ClassName=CPLD Member=Component C76 4.7uF
+Added Member To Class: ClassName=CPLD Member=Component C77 47uF
+Added Member To Class: ClassName=CPLD Member=Component C78 330pF
+Added Member To Class: ClassName=CPLD Member=Component D30 VS-10BQ030-M3/5BT
+Added Member To Class: ClassName=CPLD Member=Component D31 VS-10BQ030-M3/5BT
+Added Member To Class: ClassName=CPLD Member=Component P1 Header 6
+Added Member To Class: ClassName=CPLD Member=Component R24 14K
+Added Member To Class: ClassName=CPLD Member=Component R25 309K
+Added Member To Class: ClassName=CPLD Member=Component R26 100K
+Added Member To Class: ClassName=CPLD Member=Component R27 68.1K
+Added Member To Class: ClassName=CPLD Member=Component R28 18.2K
+Added Member To Class: ClassName=CPLD Member=Component R29 309K
+Added Member To Class: ClassName=CPLD Member=Component R30 100K
+Added Member To Class: ClassName=CPLD Member=Component R31 68.1K
+Added Member To Class: ClassName=CPLD Member=Component U11 XC9572XL-10VQG44C
+Added Member To Class: ClassName=CPLD Member=Component U12 LT3480EDD
+Added Member To Class: ClassName=CPLD Member=Component U13 LT3480EDD

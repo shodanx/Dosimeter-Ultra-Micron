@@ -1,0 +1,7 @@
+Added Component: Designator=P?(MMCX2.54-V5)
+Added Pin To Net: NetName=+2.5ANALOG Pin=P?-1
+Added Pin To Net: NetName=AGND Pin=P?-2
+Added Pin To Net: NetName=AGND Pin=P?-3
+Added Pin To Net: NetName=AGND Pin=P?-4
+Added Pin To Net: NetName=AGND Pin=P?-5
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P? COAX-M

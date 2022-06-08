@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AGND Pin=R7-2
+Change Component Footprint: Designator=R7 Old Footprint=3223W New Footprint=1608[0603]
+Change Component Comment : Designator=C7 Old Comment=1nF New Comment=100nF
+Change Component Comment : Designator=R17 Old Comment=47k New Comment=3.92K
+Change Component Comment : Designator=C8 Old Comment=47pF New Comment=5pF
+Change Component Comment : Designator=R7 Old Comment=100K New Comment=24.9R
+Added Pin To Net: NetName=AGND Pin=R7-1
+Added Pin To Net: NetName=19MV Pin=C7-1
+Added Pin To Net: NetName=19MV Pin=R7-2
+Added Pin To Net: NetName=19MV Pin=R17-1
+Added Pin To Net: NetName=19MV Pin=U5-4
+Added Net: Name=19MV

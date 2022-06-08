@@ -1,0 +1,5 @@
+Added Component: Designator=Q7(PMR400UN)
+Added Pin To Net: NetName=NetQ2_1 Pin=Q7-1
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetC24_1 Pin=Q7-3
+Added Member To Class: ClassName=Micron-6 Member=Component Q7 RUM002N05T2L

@@ -1,0 +1,16 @@
+Added Component: Designator=L2(0603)
+Added Component: Designator=Q5(SOT416_N)
+Added Component: Designator=Sound2(Sensor contact)
+Added Pin To Net: NetName=PUMP Pin=L2-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=PUMP Pin=Sound1-1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=Q5-3
+Added Pin To Net: NetName=NetL2_1 Pin=Sound2-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=U1-25
+Added Net: Name=NetQ5_1
+Added Member To Class: ClassName=Micron-6 Member=Component L2 Inductor
+Added Member To Class: ClassName=Micron-6 Member=Component Q5 BC847CT
+Added Member To Class: ClassName=Micron-6 Member=Component Sound2 

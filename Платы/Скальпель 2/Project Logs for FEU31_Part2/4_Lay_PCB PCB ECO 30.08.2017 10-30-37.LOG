@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MCU_CONTROL3 Pin=P1-1
+Removed Pin From Net: NetName=MCU_CONTROL1 Pin=P1-2
+Removed Pin From Net: NetName=MCU_CONTROL2 Pin=P1-3
+Removed Pin From Net: NetName=ADC_START Pin=P1-4
+Removed Pin From Net: NetName=3.3V Pin=P1-5
+Removed Pin From Net: NetName=TDI Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=TMS Pin=P1-8
+Removed Pin From Net: NetName=TDO Pin=P1-9
+Removed Pin From Net: NetName=TCK Pin=P1-10
+Removed Member From Class: ClassName=CPLD Member=P1
+Added Component: Designator=Iface(HDR2X5)
+Added Pin To Net: NetName=MCU_CONTROL3 Pin=Iface-1
+Added Pin To Net: NetName=MCU_CONTROL1 Pin=Iface-2
+Added Pin To Net: NetName=MCU_CONTROL2 Pin=Iface-3
+Added Pin To Net: NetName=ADC_START Pin=Iface-4
+Added Pin To Net: NetName=3.3V Pin=Iface-5
+Added Pin To Net: NetName=TDI Pin=Iface-6
+Added Pin To Net: NetName=GND Pin=Iface-7
+Added Pin To Net: NetName=TMS Pin=Iface-8
+Added Pin To Net: NetName=TDO Pin=Iface-9
+Added Pin To Net: NetName=TCK Pin=Iface-10
+Added Member To Class: ClassName=CPLD Member=Component Iface Header 5X2

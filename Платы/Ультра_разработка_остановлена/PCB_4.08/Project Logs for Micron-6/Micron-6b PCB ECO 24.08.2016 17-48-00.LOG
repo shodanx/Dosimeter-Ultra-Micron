@@ -1,0 +1,8 @@
+Added Component: Designator=R31(1608[0603])
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_1 Pin=U1-11
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=SCINT Pin=J1-4
+Added Pin To Net: NetName=SCINT Pin=R31-2
+Added Net: Name=SCINT
+Added Member To Class: ClassName=Micron-6 Member=Component R31 1k

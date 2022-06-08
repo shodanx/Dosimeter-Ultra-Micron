@@ -1,0 +1,8 @@
+Added Component: Designator=Anode(MCX5.08-H5)
+Added Pin To Net: NetName=GND Pin=Anode-2
+Added Pin To Net: NetName=GND Pin=Anode-3
+Added Pin To Net: NetName=GND Pin=Anode-4
+Added Pin To Net: NetName=GND Pin=Anode-5
+Added Pin To Net: NetName=ANODE Pin=Anode-1
+Added Net: Name=ANODE
+Added Member To Class: ClassName=Умножитель Member=Component Anode COAX-F

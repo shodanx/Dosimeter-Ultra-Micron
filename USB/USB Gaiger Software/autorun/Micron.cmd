@@ -1,0 +1,1 @@
+runas /savecred /user:Administrator "c:\Micron\Micron.exe"

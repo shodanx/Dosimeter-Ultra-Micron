@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VDIGISETCANCLK Pin=R6-1
+Removed Pin From Net: NetName=VDIGISETCANDIN Pin=R6-2
+Removed Pin From Net: NetName=VDIGISETCANCS Pin=R6-3
+Removed Member From Class: ClassName=FEU31_Part2 Member=R6
+Added Component: Designator=R?(CAT16-470J4LF)
+Added Pin To Net: NetName=VDIGISETCANCLK Pin=R?-5
+Added Pin To Net: NetName=VDIGISETCANDIN Pin=R?-6
+Added Pin To Net: NetName=VDIGISETCANCS Pin=R?-7
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U1-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=U1-3
+Added Net: Name=NetR?_3
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R? 47R

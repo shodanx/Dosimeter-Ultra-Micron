@@ -1,0 +1,33 @@
+Added Component: Designator=U3(UFQFPN48)
+Added Pin To Net: NetName=NetC5_2 Pin=U3-3
+Added Pin To Net: NetName=NetC6_2 Pin=U3-4
+Added Pin To Net: NetName=NetU3_5 Pin=U3-5
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=WKUP Pin=U3-10
+Added Pin To Net: NetName=C_DIG1 Pin=U3-11
+Added Pin To Net: NetName=C_DIG2 Pin=U3-12
+Added Pin To Net: NetName=C_DIG3 Pin=U3-13
+Added Pin To Net: NetName=NetR16_1 Pin=U3-14
+Added Pin To Net: NetName=DAC_OUT2 Pin=U3-15
+Added Pin To Net: NetName=SIGIN Pin=U3-16
+Added Pin To Net: NetName=C_SEG_A Pin=U3-18
+Added Pin To Net: NetName=C_SEG_B Pin=U3-19
+Added Pin To Net: NetName=C_SEG_C Pin=U3-20
+Added Pin To Net: NetName=C_SEG_D Pin=U3-21
+Added Pin To Net: NetName=C_SEG_E Pin=U3-22
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=C_SEG_F Pin=U3-25
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-26
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-27
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-28
+Added Pin To Net: NetName=NetU1_6 Pin=U3-32
+Added Pin To Net: NetName=NetU1_4 Pin=U3-33
+Added Pin To Net: NetName=IO Pin=U3-34
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=CLK Pin=U3-37
+Added Pin To Net: NetName=VSENS Pin=U3-40
+Added Pin To Net: NetName=GND Pin=U3-44
+Added Pin To Net: NetName=C_SEG_G Pin=U3-46
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U3 STM32L152CBU6

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C29 Old Footprint=0402 AVX New Footprint=1608[0603]_CAP
+Change Component Footprint: Designator=C30 Old Footprint=0402 AVX New Footprint=1608[0603]_CAP
+Change Component Footprint: Designator=C31 Old Footprint=0402 AVX New Footprint=1608[0603]_CAP
+Change Component Footprint: Designator=C32 Old Footprint=1608[0603]_RES New Footprint=1608[0603]_CAP
+Change Component Footprint: Designator=C33 Old Footprint=1608[0603]_RES New Footprint=1608[0603]_CAP

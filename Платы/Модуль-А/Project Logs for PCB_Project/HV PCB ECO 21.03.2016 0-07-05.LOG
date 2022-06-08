@@ -1,0 +1,43 @@
+Added Component: Designator=C34(1608[0603]_CAP)
+Added Component: Designator=C35(1608[0603]_CAP)
+Added Component: Designator=C36(1608[0603]_CAP)
+Added Component: Designator=LX2(Resistor)
+Added Component: Designator=Out(MMCX2.54-V5)
+Added Component: Designator=R10(1608[0603])
+Added Component: Designator=R12(1608[0603])
+Added Component: Designator=R13(3223W)
+Added Component: Designator=U2(ADI-RJ-5_N)
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=ANODE Pin=C36-2
+Added Pin To Net: NetName=VCC Pin=LX2-1
+Added Pin To Net: NetName=ANODE Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=ANODE Pin=U2-4
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=R13-3
+Added Pin To Net: NetName=NetC34_2 Pin=U2-3
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=LX2-2
+Added Pin To Net: NetName=NetC35_1 Pin=R13-1
+Added Pin To Net: NetName=NetC35_1 Pin=U2-5
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=R10-1
+Added Pin To Net: NetName=NetC36_1 Pin=R12-2
+Added Pin To Net: NetName=NetC36_1 Pin=U2-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetOut_1 Pin=Out-1
+Added Pin To Net: NetName=NetOut_1 Pin=R12-1
+Added Net: Name=NetOut_1
+Added Member To Class: ClassName=Умножитель Member=Component C34 100nF
+Added Member To Class: ClassName=Умножитель Member=Component C35 100nF
+Added Member To Class: ClassName=Умножитель Member=Component C36 8pF
+Added Member To Class: ClassName=Умножитель Member=Component LX2 Ferrite beard
+Added Member To Class: ClassName=Умножитель Member=Component Out COAX-M
+Added Member To Class: ClassName=Умножитель Member=Component R10 10M
+Added Member To Class: ClassName=Умножитель Member=Component R12 1K
+Added Member To Class: ClassName=Умножитель Member=Component R13 Res Tap
+Added Member To Class: ClassName=Умножитель Member=Component U2 AD8541ARTZ

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V Pin=L2-2
+Removed Member From Class: ClassName=Micron-6 Member=L2
+Change Component DesignItemId : Designator=Q5 Old DesignItemId=BC847CT New DesignItemId=IRLML2402
+Change Component Footprint: Designator=Q5 Old Footprint=SOT416_L New Footprint=PMR400UN
+Change Component Comment : Designator=Q5 Old Comment=BC847CT New Comment=RUM002N05T2L
+Change Component Comment : Designator=Q2 Old Comment=PMR400UN New Comment=RUM002N05T2L
+Change Component Comment : Designator=Q4 Old Comment=PMR400UN New Comment=RUM002N05T2L
+Added Component: Designator=R19(Resistor)
+Added Pin To Net: NetName=+3V Pin=R19-1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R19-2
+Added Pin To Net: NetName=NetQ5_3 Pin=Sound2-1
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=Micron-6 Member=Component R19 10k

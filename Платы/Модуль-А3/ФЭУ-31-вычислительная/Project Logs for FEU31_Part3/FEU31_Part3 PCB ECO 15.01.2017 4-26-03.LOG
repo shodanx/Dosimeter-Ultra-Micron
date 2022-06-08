@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AVCC Pin=U8-2
+Removed Pin From Net: NetName=AGND Pin=U8-3
+Removed Pin From Net: NetName=SPI2_SCK Pin=U8-4
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U8-5
+Removed Pin From Net: NetName=AGND Pin=U8-7
+Removed Pin From Net: NetName=DAC_OUT Pin=U8-8
+Removed Member From Class: ClassName=FEU31_Part3 Member=U8
+Added Pin To Net: NetName=DAC_OUT Pin=U7-3

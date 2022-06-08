@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ANODE Pin=Anode-1
+Removed Pin From Net: NetName=GND Pin=Anode-2
+Removed Pin From Net: NetName=GND Pin=Anode-3
+Removed Pin From Net: NetName=GND Pin=Anode-4
+Removed Pin From Net: NetName=GND Pin=Anode-5
+Removed Member From Class: ClassName=Умножитель Member=Anode
+Added Component: Designator=P?(MMCX2.54-V5)
+Added Pin To Net: NetName=ANODE Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Member To Class: ClassName=Умножитель Member=Component P? COAX-M

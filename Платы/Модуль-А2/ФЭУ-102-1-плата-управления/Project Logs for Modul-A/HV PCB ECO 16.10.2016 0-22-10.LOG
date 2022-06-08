@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Умножитель Member=*
+Added Component: Designator=U4(TI-DDC5_N)
+Added Pin To Net: NetName=VCC_IN Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=VCC_IN Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=VCC Pin=U4-5
+Added Member To Class: ClassName=Умножитель Member=Component U4 TPS78326DDCT

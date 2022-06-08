@@ -1,0 +1,25 @@
+Added Component: Designator=Clear_Charge(MMCX PCB)
+Added Component: Designator=Max_Pulse(MMCX PCB)
+Added Component: Designator=Pulse_sens(MMCX PCB)
+Added Component: Designator=Pump_pulse(MMCX PCB)
+Added Component: Designator=Volt_sens(MMCX PCB)
+Added Pin To Net: NetName=CLEAR_CHARGE Pin=Clear_Charge-1
+Added Pin To Net: NetName=AGND Pin=Clear_Charge-2
+Added Pin To Net: NetName=AGND Pin=Clear_Charge-2
+Added Pin To Net: NetName=MAXPULSELEVEL Pin=Max_Pulse-1
+Added Pin To Net: NetName=AGND Pin=Max_Pulse-2
+Added Pin To Net: NetName=AGND Pin=Max_Pulse-2
+Added Pin To Net: NetName=PULSESENS Pin=Pulse_sens-1
+Added Pin To Net: NetName=AGND Pin=Pulse_sens-2
+Added Pin To Net: NetName=AGND Pin=Pulse_sens-2
+Added Pin To Net: NetName=PULSE Pin=Pump_pulse-1
+Added Pin To Net: NetName=GND Pin=Pump_pulse-2
+Added Pin To Net: NetName=GND Pin=Pump_pulse-2
+Added Pin To Net: NetName=VDIGISENSCAN Pin=Volt_sens-1
+Added Pin To Net: NetName=AGND Pin=Volt_sens-2
+Added Pin To Net: NetName=AGND Pin=Volt_sens-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Clear_Charge SMB
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Max_Pulse SMB
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Pulse_sens SMB
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Pump_pulse SMB
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Volt_sens SMB

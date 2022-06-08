@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=FEU31_Part3 Member=U*
+Added Component: Designator=C?(C1210)
+Added Component: Designator=C?(C1210)
+Added Component: Designator=C?(1608[0603])
+Added Component: Designator=R?(1608[0603])
+Added Component: Designator=U?(DFN-10 (3x3))
+Added Pin To Net: NetName=AVCC Pin=C?-1
+Added Pin To Net: NetName=PUMP Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=PUMP Pin=U?-1
+Added Pin To Net: NetName=PUMP Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=PUMP Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=AVCC Pin=U?-9
+Added Pin To Net: NetName=AVCC Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-7
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C? 10uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C? 4.7uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C? 470nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R? 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U? LT3045EDD

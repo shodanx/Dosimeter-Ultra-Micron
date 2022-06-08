@@ -1,0 +1,51 @@
+﻿Field=Designator~String~Designator~138|Field=Order~String~Order~153|Field=Quantity~Integer~Quantity~153|Field=Value~String~Value~153|Field=Footprint~String~Footprint~153|Field=Avail~String~Avail~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Micron-6.PrjPcb|ReportField=ProjectFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|ReportField=Title~Bill of Materials For Project [Micron-6.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~81|ReportField=ReportTime~6:19:26|ReportField=ReportDate~10.05.2015|ReportField=ReportDateTime~10.05.2015 6:19:26|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Дозиметр Ультра-Микрон|ReportField=Address2~(с) Быканов Андрей|ReportField=Address3~Тула, 2014-15г.|ReportField=Address4~shodan@микрон.net|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andrey Bykanov|ReportField=CheckedBy~|ReportField=CompanyName~http://микрон.net|ReportField=CurrentDate~10.05.2015|ReportField=CurrentTime~6:18:57|ReportField=Date~18.11.2013|ReportField=DocumentFullPathAndName~C:\Проекты\Ультра-микрон\PCB\Micron-6.SchDoc|ReportField=DocumentName~Micron-6.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Andrey Bykanov|ReportField=ImagePath~|ReportField=ModifiedDate~08.05.2015|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4 (210 x 297 мм):PaperIndex=9|ReportField=ProjectName~Micron-6.PrjPcb|ReportField=Revision~4.00|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Ультра-Микрон|ReportField=DataSourceFileName~Micron-6.PrjPcb|ReportField=DataSourceFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb
+Batt+1|EEMB LP401230|1||Sensor contact|
+Batt-1, clk, io, Logo, SensorGND1, Sound2, Vibro||7||Sensor contact, Sensor contact, Sensor contact, Logo Micron, Sensor contact, Sensor contact, Vibro 4hobby|
+C1|VJ0805A100JXGAT5Z|1|10pF|0805 sw-2012 std|
+C2|1206CC103KAT1A|1|10nF 600V|C1206|
+C3|GRM188R71E104KA01D|1|100nF|1608[0603]|
+C4, C14, C15, C16, C19, C22|0402ZD104KAT2A|6|100nF|0402 AVX|
+C5, C6, C11, C20, C21|CC0402KRX5R5BB105|5|1uF|0402 AVX|1
+C7, C8|GRM1555C1H180JZ01D|2|18pF|0402 AVX|
+C9, C23|CC1206KKX7R8BB475|2|4u7|C1206|1
+C10|CC1206KKX7R0BB104|1|100nF|C1206|1
+C12|GRM31CR61E226KE15L|1|22uF|C1206|
+C13|GRM31CR61A106KA01L|1|10uF|C1206|
+C17, C18|GRM1555C1H100JA01D|2|10pF|0402 AVX|
+D1|BAR43C|1||SOT23_N|
+D2|DA2JF8100L|1|DA2JF8100L|DA2JF8100L|
+Display1|Nokia 2760 ext + Socket Hirose DF23C-10DS-0.5V|1||DF23C-10DS-0.5V|
+J1|Molex 47346-0001|1||47346-0001|
+KEY1, KEY2, KEY3|IT-1187-160GM-G|3||IT-1187-160GM-G|
+L1|IFSC1515AHER100M01|1|10uH|IFSC1515AHER100M01|15(или заказ у производителя)
+LED1|KPTD-3216SECK|1||KPTD-3216SECK|1
+Q1|BC857CT|1|BC857CT|SOT416_N|
+Q2, Q4, Q5, Q6|RUM002N05T2L|4|RUM002N05T2L|PMR400UN|
+Q3|IRLML6401|1|IRLML6401|Micro3_N|
+R1|RCV080510M0FKEA|1|10M|0805 sw-2012 std|
+R2, R5, R8, R11, R12|RC0603FR-1010KL|5|10k|1608[0603]|
+R3|BLM18HG102SN1D|1|1.5R Beard|1608[0603]|20
+R4|RC0603FR-071K5L|1|1.5K|1608[0603]|1
+R6|RC0603FR-0733KL|1|33K|1608[0603]|
+R7, R23|RC0603FR-101KL|2|1k|1608[0603]|
+R9, R10|CR0603-JW-220GLF|2|22R|1608[0603]|20
+R13|RC0603JR-0762KL|1|62K|J1-0603|1
+R14|RC0603JR-07470RL|1|470R|1608[0603]|1
+R15|RC0603FR-071RL|1|1R|1608[0603]|20
+R16, R17|RC0603FR-073M3L|2|3.3M|1608[0603]|1
+R18|RC0603FR-077M5L|1|7.5M|1608[0603]|1
+R19|RC0603FR-07360RL|1|360R|Resistor|
+R20|CRCW06036M04FKEA|1|6.04M|1608[0603]|1
+R21|RC0603FR-075M1L|1|5.1M|1608[0603]|1
+R22, R24|RC0603FR-103KL|2|100k|1608[0603]|
+R25|RC0805FR-0715RL|1|15R|1608[0603]|
+Sensor|SBM-10|1||Sensor contact|
+Sound1|7BB-12-9|1||Sensor contact|
+T1|ATB322515-0110|1|FlayBack trans.|ATB322515-0110|
+U1|STM32L152CBU6|1||UFQFPN48_M|
+U2|TPS60400DBV|1||SOT-23-OT5_M|
+U3|USBLC6-2|1||SOT23-6L|1
+U4|MCP73831T-2ACI/OT|1||SOT-23-OT5_N|1
+U5|TPS62736RGYT|1||TPS62736RGYT|20
+Z1|ABM7-8.000MHZ-D2Y-T|1|8MHz|8MHZ|
+Z2|ABS10-32.768KHZ-7-T|1|32,768 KHz|ABS10|

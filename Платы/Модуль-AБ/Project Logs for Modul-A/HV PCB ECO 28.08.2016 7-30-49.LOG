@@ -1,0 +1,111 @@
+Added Component: Designator=Anode(MMCX2.54-V5)
+Added Component: Designator=C28(C1206)
+Added Component: Designator=C29(1608[0603]_CAP)
+Added Component: Designator=C30(1608[0603]_CAP)
+Added Component: Designator=C31(1608[0603]_CAP)
+Added Component: Designator=C32(1608[0603]_CAP)
+Added Component: Designator=C33(1608[0603]_CAP)
+Added Component: Designator=C36(C1206)
+Added Component: Designator=C37(1608[0603]_CAP)
+Added Component: Designator=C41(1608[0603]_CAP)
+Added Component: Designator=D29(SC-90)
+Added Component: Designator=LX1(Resistor)
+Added Component: Designator=LX3(Resistor)
+Added Component: Designator=Q1(SOT-23_N)
+Added Component: Designator=R1(1608[0603]_RES)
+Added Component: Designator=R2(1608[0603]_RES)
+Added Component: Designator=R3(3223W)
+Added Component: Designator=R4(1608[0603]_RES)
+Added Component: Designator=R5(1608[0603])
+Added Component: Designator=R6(HVF2512T5007FE)
+Added Component: Designator=R7(1608[0603])
+Added Component: Designator=R8(1608[0603]_RES)
+Added Component: Designator=R9(1608[0603]_RES)
+Added Component: Designator=R10(1608[0603])
+Added Component: Designator=R11(1608[0603]_RES)
+Added Component: Designator=T1(Epcos ER9.5/5)
+Added Pin To Net: NetName=ANODE Pin=Anode-1
+Added Pin To Net: NetName=GND Pin=Anode-2
+Added Pin To Net: NetName=GND Pin=Anode-3
+Added Pin To Net: NetName=GND Pin=Anode-4
+Added Pin To Net: NetName=GND Pin=Anode-5
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC29_1 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=NetC34_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=D29-1
+Added Pin To Net: NetName=NetC29_1 Pin=D29-2
+Added Pin To Net: NetName=VCC Pin=LX1-1
+Added Pin To Net: NetName=NetC29_1 Pin=LX1-2
+Added Pin To Net: NetName=VCC Pin=LX3-1
+Added Pin To Net: NetName=NetC41_1 Pin=LX3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetC28_1 Pin=R1-1
+Added Pin To Net: NetName=NetC36_1 Pin=R1-2
+Added Pin To Net: NetName=NetD28_2 Pin=R2-1
+Added Pin To Net: NetName=NetC41_1 Pin=R2-2
+Added Pin To Net: NetName=NetC29_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetC29_2 Pin=R3-3
+Added Pin To Net: NetName=NetC32_2 Pin=R4-1
+Added Pin To Net: NetName=NetD28_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=FOTO-KAT Pin=R6-1
+Added Pin To Net: NetName=NetC30_2 Pin=R6-2
+Added Pin To Net: NetName=NetC29_1 Pin=R7-1
+Added Pin To Net: NetName=NetC30_2 Pin=R7-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetC36_1 Pin=R9-1
+Added Pin To Net: NetName=BAT Pin=R9-2
+Added Pin To Net: NetName=NetC37_2 Pin=R10-1
+Added Pin To Net: NetName=NetC34_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=PUMP Pin=T1-4
+Added Pin To Net: NetName=NetQ1_3 Pin=T1-5
+Added Pin To Net: NetName=NetC28_1 Pin=T1-6
+Added Member To Class: ClassName=Умножитель Member=Component Anode COAX-M
+Added Member To Class: ClassName=Умножитель Member=Component C28 4.7uF
+Added Member To Class: ClassName=Умножитель Member=Component C29 1nF
+Added Member To Class: ClassName=Умножитель Member=Component C30 2.2pF
+Added Member To Class: ClassName=Умножитель Member=Component C31 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C32 220pF
+Added Member To Class: ClassName=Умножитель Member=Component C33 1nF
+Added Member To Class: ClassName=Умножитель Member=Component C36 4.7uF
+Added Member To Class: ClassName=Умножитель Member=Component C37 2.2pF
+Added Member To Class: ClassName=Умножитель Member=Component C41 1uF
+Added Member To Class: ClassName=Умножитель Member=Component D29 TDZ3V3J
+Added Member To Class: ClassName=Умножитель Member=Component LX1 22uH
+Added Member To Class: ClassName=Умножитель Member=Component LX3 22uH
+Added Member To Class: ClassName=Умножитель Member=Component Q1 IRLML6344
+Added Member To Class: ClassName=Умножитель Member=Component R1 12R
+Added Member To Class: ClassName=Умножитель Member=Component R2 47k
+Added Member To Class: ClassName=Умножитель Member=Component R3 100K
+Added Member To Class: ClassName=Умножитель Member=Component R4 150k
+Added Member To Class: ClassName=Умножитель Member=Component R5 1K
+Added Member To Class: ClassName=Умножитель Member=Component R6 5G
+Added Member To Class: ClassName=Умножитель Member=Component R7 6,04M
+Added Member To Class: ClassName=Умножитель Member=Component R8 470R
+Added Member To Class: ClassName=Умножитель Member=Component R9 12R
+Added Member To Class: ClassName=Умножитель Member=Component R10 390K
+Added Member To Class: ClassName=Умножитель Member=Component R11 47k
+Added Member To Class: ClassName=Умножитель Member=Component T1 BAT-ER9-01

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=+5D-2
+Removed Pin From Net: NetName=GND Pin=+5D-3
+Removed Pin From Net: NetName=GND Pin=+5D-4
+Removed Pin From Net: NetName=GND Pin=+5D-5
+Removed Member From Class: ClassName=FEU31_Part2 Member=+5D

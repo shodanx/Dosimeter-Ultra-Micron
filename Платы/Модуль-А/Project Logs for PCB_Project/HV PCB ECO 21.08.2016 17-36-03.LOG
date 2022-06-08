@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=NetC30_2 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=ANODE Pin=C36-2
+Removed Pin From Net: NetName=VCC Pin=LX2-1
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=NetC28_1 Pin=R1-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R9-2
+Removed Pin From Net: NetName=NetC36_1 Pin=R10-1
+Removed Pin From Net: NetName=ANODE Pin=R10-2
+Removed Pin From Net: NetName=NetC36_1 Pin=R12-2
+Removed Pin From Net: NetName=PUMP Pin=T1-2
+Removed Pin From Net: NetName=GND Pin=T1-3
+Removed Pin From Net: NetName=NetC36_1 Pin=U2-1
+Removed Pin From Net: NetName=ANODE Pin=U2-4
+Removed Pin From Net: NetName=VCC Pin=VCCcon-1
+Change Component Footprint: Designator=R9 Old Footprint=1608[0603] New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=C36 Old Footprint=1608[0603]_CAP New Footprint=C1206
+Change Component Footprint: Designator=T1 Old Footprint=ATB322515-0110 New Footprint=Epcos ER9.5/5
+Change Component Comment : Designator=C30 Old Comment=8pF New Comment=2.2pF
+Change Component Comment : Designator=C36 Old Comment=8pF New Comment=4.7uF 25V
+Change Component Comment : Designator=R10 Old Comment=10M New Comment=15M
+Change Component Comment : Designator=C28 Old Comment=10uF New Comment=4.7uF 25V
+Change Component Comment : Designator=R1 Old Comment=22R New Comment=12R
+Change Component Comment : Designator=R9 Old Comment=51K New Comment=12R
+Change Component Comment : Designator=C29 Old Comment=100nF New Comment=1nF
+Change Component Comment : Designator=C34 Old Comment=100nF New Comment=1nF
+Change Component Comment : Designator=C31 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=Q1 Old Comment=RUM002N05T2L New Comment=PMR400UN
+Change Component Designator: OldDesignator=VCCcon NewDesignator=BATcon
+Added Component: Designator=C37(1608[0603]_CAP)
+Added Component: Designator=C38(1608[0603]_CAP)
+Added Component: Designator=C39(1608[0603]_CAP)
+Added Component: Designator=C40(1608[0603]_CAP)
+Added Component: Designator=C41(1608[0603]_CAP)
+Added Component: Designator=C42(1608[0603]_CAP)
+Added Component: Designator=D29(SC-90)
+Added Component: Designator=POWERcon(HDR1X3)
+Added Component: Designator=Q2(PMR400UN)
+Added Component: Designator=R11(1608[0603]_RES)
+Added Component: Designator=R14(1608[0603]_RES)
+Added Component: Designator=R15(1608[0603]_RES)
+Added Component: Designator=R16(1608[0603])
+Added Component: Designator=R17(1608[0603]_RES)
+Added Component: Designator=R18(1608[0603]_RES)
+Added Component: Designator=R19(1608[0603]_RES)
+Added Component: Designator=SNDcon(HDR1X2)
+Added Component: Designator=SWcon(HDR1X2)
+Added Component: Designator=U4(TI-DDC5_N)
+Added Component: Designator=U5(SOT-23-OT5_N)
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VCC Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=VCC Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=D29-1
+Added Pin To Net: NetName=NetC30_2 Pin=D29-2
+Added Pin To Net: NetName=GND Pin=POWERcon-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetC28_1 Pin=R1-1
+Added Pin To Net: NetName=NetC36_1 Pin=R1-2
+Added Pin To Net: NetName=NetC30_2 Pin=R3-1
+Added Pin To Net: NetName=NetC36_1 Pin=R9-1
+Added Pin To Net: NetName=NetC35_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R11-2
+Added Pin To Net: NetName=ANODE Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=PUMP Pin=T1-3
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=VCC Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U5-2
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC31_1
+Added Pin To Net: NetName=BAT Pin=BATcon-1
+Added Pin To Net: NetName=BAT Pin=C42-2
+Added Pin To Net: NetName=BAT Pin=R9-2
+Added Pin To Net: NetName=BAT Pin=R14-1
+Added Pin To Net: NetName=BAT Pin=SWcon-1
+Added Pin To Net: NetName=BAT Pin=U5-3
+Added Net: Name=BAT
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=R13-3
+Added Pin To Net: NetName=NetC34_1 Pin=U2-4
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R10-1
+Added Pin To Net: NetName=NetC37_1 Pin=R16-2
+Added Pin To Net: NetName=NetC37_1 Pin=U2-3
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=POWERcon-3
+Added Pin To Net: NetName=NetC39_1 Pin=U5-4
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=R14-2
+Added Pin To Net: NetName=NetC40_1 Pin=SNDcon-1
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetPOWERcon_1 Pin=POWERcon-1
+Added Pin To Net: NetName=NetPOWERcon_1 Pin=R19-2
+Added Net: Name=NetPOWERcon_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R15-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R17-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=SNDcon-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R15-2
+Added Pin To Net: NetName=NetR12_2 Pin=U2-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U5-5
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U5-1
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetSWcon_2 Pin=SWcon-2
+Added Pin To Net: NetName=NetSWcon_2 Pin=U4-1
+Added Net: Name=NetSWcon_2
+Added Member To Class: ClassName=Умножитель Member=Component C37 2.2pF
+Added Member To Class: ClassName=Умножитель Member=Component C38 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C39 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C40 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C41 1uF
+Added Member To Class: ClassName=Умножитель Member=Component C42 1uF
+Added Member To Class: ClassName=Умножитель Member=Component D29 TDZ3V3J
+Added Member To Class: ClassName=Умножитель Member=Component POWERcon Header 3
+Added Member To Class: ClassName=Умножитель Member=Component Q2 PMR400UN
+Added Member To Class: ClassName=Умножитель Member=Component R11 47k
+Added Member To Class: ClassName=Умножитель Member=Component R14 12R
+Added Member To Class: ClassName=Умножитель Member=Component R15 470R
+Added Member To Class: ClassName=Умножитель Member=Component R16 15M
+Added Member To Class: ClassName=Умножитель Member=Component R17 47k
+Added Member To Class: ClassName=Умножитель Member=Component R18 10k
+Added Member To Class: ClassName=Умножитель Member=Component R19 470R
+Added Member To Class: ClassName=Умножитель Member=Component SNDcon Header 2
+Added Member To Class: ClassName=Умножитель Member=Component SWcon Header 2
+Added Member To Class: ClassName=Умножитель Member=Component U4 TPS78330DDCR
+Added Member To Class: ClassName=Умножитель Member=Component U5 MCP73831T-2ACI/OT

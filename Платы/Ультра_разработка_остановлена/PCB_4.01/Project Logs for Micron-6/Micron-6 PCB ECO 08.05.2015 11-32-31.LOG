@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=Vibro-2
+Added Pin To Net: NetName=GND Pin=Vibro-1
+Added Pin To Net: NetName=GND Pin=Vibro-1

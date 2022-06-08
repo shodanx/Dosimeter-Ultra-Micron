@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=U4-1
+Removed Pin From Net: NetName=AVCC Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=SPI2_SCK Pin=U4-4
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Member From Class: ClassName=FEU31_Part3 Member=U4
+Added Component: Designator=R7(3223W)
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetC7_1 Pin=R7-3
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R17-1
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R7 100K

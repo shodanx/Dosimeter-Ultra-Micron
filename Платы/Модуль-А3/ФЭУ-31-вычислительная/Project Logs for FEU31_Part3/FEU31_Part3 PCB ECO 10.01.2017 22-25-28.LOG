@@ -1,0 +1,6 @@
+Added Component: Designator=D1(SOT23_N)
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=BAT Pin=D1-2
+Added Pin To Net: NetName=PUMP Pin=D1-3
+Added Member To Class: ClassName=FEU31_Part3 Member=Component D1 BAR43C
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U3 STM32L152CBU6

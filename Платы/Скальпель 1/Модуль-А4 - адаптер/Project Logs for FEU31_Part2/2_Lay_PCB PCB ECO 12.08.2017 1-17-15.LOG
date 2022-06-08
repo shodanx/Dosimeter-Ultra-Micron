@@ -1,0 +1,16 @@
+Added Component: Designator=Anode(PMTanode)
+Added Component: Designator=P?(R6231-01)
+Added Pin To Net: NetName=ANODE Pin=Anode-1
+Added Pin To Net: NetName=UP8 Pin=P?-1
+Added Pin To Net: NetName=UP7 Pin=P?-4
+Added Pin To Net: NetName=UP6 Pin=P?-5
+Added Pin To Net: NetName=UP5 Pin=P?-6
+Added Pin To Net: NetName=UP4 Pin=P?-7
+Added Pin To Net: NetName=UP3 Pin=P?-9
+Added Pin To Net: NetName=UP2 Pin=P?-13
+Added Pin To Net: NetName=UP1 Pin=P?-14
+Added Pin To Net: NetName=ANODE Pin=P?-15
+Added Pin To Net: NetName=UP10 Pin=P?-16
+Added Pin To Net: NetName=UP12 Pin=P?-18
+Added Member To Class: ClassName=FEU31_Part2 Member=Component Anode
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P? Header 18

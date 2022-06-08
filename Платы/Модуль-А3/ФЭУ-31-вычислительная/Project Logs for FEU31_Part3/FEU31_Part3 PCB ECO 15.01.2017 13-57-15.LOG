@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DAC_OUT_ON Pin=U3-10
+Removed Pin From Net: NetName=SIGIN Pin=U3-16
+Added Component: Designator=C15(0402 AVX)
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=SIGIN Pin=U3-10
+Added Pin To Net: NetName=DAC_OUT_ON Pin=U3-16
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C15 100nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U3 STM32L152CBU6

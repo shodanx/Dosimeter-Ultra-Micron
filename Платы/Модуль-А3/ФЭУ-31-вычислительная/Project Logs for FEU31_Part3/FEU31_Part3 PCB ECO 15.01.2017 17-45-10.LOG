@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=6-0805_M New Footprint=1608[0603]
+Change Component Footprint: Designator=C22 Old Footprint=C1210 New Footprint=1608[0603]
+Change Component Comment : Designator=C22 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=R1 Old Comment=30.9k New Comment=30.1k

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC31_1 Pin=R3-1
+Added Component: Designator=R9(1608[0603])
+Added Pin To Net: NetName=NetC31_1 Pin=R9-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R9-1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=Умножитель Member=Component R9 51K

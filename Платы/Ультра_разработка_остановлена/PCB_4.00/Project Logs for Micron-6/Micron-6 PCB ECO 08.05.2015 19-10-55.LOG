@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C23 Old DesignItemId=Cap Semi New DesignItemId=CAPACITOR
+Change Component Footprint: Designator=C23 Old Footprint=0402 AVX New Footprint=C1206
+Change Component Comment : Designator=C23 Old Comment=100nF New Comment=4u7

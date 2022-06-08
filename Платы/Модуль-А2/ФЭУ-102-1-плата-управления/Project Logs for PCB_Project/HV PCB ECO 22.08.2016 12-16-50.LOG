@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U4-3
+Change Component Designator: OldDesignator=M FK NewDesignator=FK M
+Added Pin To Net: NetName=NetSWcon_2 Pin=U4-3

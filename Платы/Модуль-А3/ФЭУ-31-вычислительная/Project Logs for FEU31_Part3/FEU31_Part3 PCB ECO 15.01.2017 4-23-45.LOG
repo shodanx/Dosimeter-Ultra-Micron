@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=AVCC Pin=C9-1
+Removed Pin From Net: NetName=AGND Pin=C9-2
+Removed Pin From Net: NetName=AVCC Pin=C10-1
+Removed Pin From Net: NetName=AGND Pin=C11-2
+Removed Pin From Net: NetName=AGND Pin=C12-1
+Removed Pin From Net: NetName=SIGIN Pin=R19-2
+Removed Pin From Net: NetName=AVCC Pin=R22-1
+Removed Pin From Net: NetName=AGND Pin=R22-2
+Removed Pin From Net: NetName=AGND Pin=U6-2
+Removed Pin From Net: NetName=AVCC Pin=U6-5
+Removed Pin From Net: NetName=AVCC Pin=U7-5
+Removed Pin From Net: NetName=ADC START EXTI_15 Pin=U9-1
+Removed Pin From Net: NetName=AGND Pin=U9-2
+Removed Pin From Net: NetName=AVCC Pin=U9-5
+Removed Member From Class: ClassName=FEU31_Part3 Member=C9
+Removed Member From Class: ClassName=FEU31_Part3 Member=C11
+Removed Member From Class: ClassName=FEU31_Part3 Member=C12
+Removed Member From Class: ClassName=FEU31_Part3 Member=R19
+Removed Member From Class: ClassName=FEU31_Part3 Member=R20
+Removed Member From Class: ClassName=FEU31_Part3 Member=R22
+Removed Member From Class: ClassName=FEU31_Part3 Member=U6
+Removed Member From Class: ClassName=FEU31_Part3 Member=U9
+Added Component: Designator=Q?(RUM002N05)
+Added Pin To Net: NetName=AVCC Pin=Q?-3
+Added Pin To Net: NetName=SIGIN Pin=U3-16
+Added Pin To Net: NetName=ADC START EXTI_15 Pin=U5-1
+Added Pin To Net: NetName=DAC_OUT_ON Pin=Q?-1
+Added Net: Name=DAC_OUT_ON
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=Q?-2
+Added Pin To Net: NetName=NetC10_1 Pin=U7-5
+Added Net: Name=NetC10_1
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q? RZM002P02T2L

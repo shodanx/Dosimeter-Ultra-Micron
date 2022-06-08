@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=DAC_OUT Pin=J1-4
+Removed Pin From Net: NetName=+5 Pin=LED1-2
+Removed Pin From Net: NetName=SIGIN Pin=U3-16
+Removed Member From Class: ClassName=FEU31_Part3 Member=LED1
+Change Component Footprint: Designator=R5 Old Footprint=1608[0603] New Footprint=0805 sw-2012 std
+Change Component Comment : Designator=R5 Old Comment=470R New Comment=20R
+Change Component Designator: OldDesignator=* NewDesignator=U10
+Added Component: Designator=C7(1608[0603])
+Added Component: Designator=C8(1608[0603])
+Added Component: Designator=C9(1608[0603]_CAP)
+Added Component: Designator=C10(1608[0603]_CAP)
+Added Component: Designator=C11(1608[0603])
+Added Component: Designator=C12(1608[0603])
+Added Component: Designator=D2(SOT23_N)
+Added Component: Designator=Q11(RUM002N05)
+Added Component: Designator=R17(1608[0603])
+Added Component: Designator=R18(1608[0603])
+Added Component: Designator=R19(1608[0603]_RES)
+Added Component: Designator=R20(1608[0603])
+Added Component: Designator=R21(1608[0603]_RES)
+Added Component: Designator=R22(3223W)
+Added Component: Designator=U4(SOT-23-8)
+Added Component: Designator=U5(MF05A_N)
+Added Component: Designator=U6(ADI-RJ-5_N)
+Added Component: Designator=U7(ADI-RJ-5_N)
+Added Component: Designator=U8(SOT-23-8)
+Added Component: Designator=U9(MF05A_N)
+Added Pin To Net: NetName=SIGIN Pin=C8-2
+Added Pin To Net: NetName=PUMP Pin=D2-3
+Added Pin To Net: NetName=VCC_LED Pin=P2-4
+Added Pin To Net: NetName=PUMP Pin=P2-6
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=SIGIN Pin=R19-2
+Added Pin To Net: NetName=PUMP Pin=S1-+
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Pin To Net: NetName=VCC_LED Pin=U3-24
+Added Pin To Net: NetName=VCC_LED Pin=U3-36
+Added Pin To Net: NetName=VCC_LED Pin=U3-48
+Added Pin To Net: NetName=PUMP Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=VCC_LED Pin=U10-5
+Change Net Name : Old Net Name=NetR1_1 New Net Name=5V DETECT
+Change Net Name : Old Net Name=NetR7_1 New Net Name=BAT VOLTAGE
+Change Net Name : Old Net Name=NetR8_1 New Net Name=BAT VOLTAGE EN
+Change Net Name : Old Net Name=NetU1_4 New Net Name=+DATA ESD
+Change Net Name : Old Net Name=NetU1_6 New Net Name=-DATA ESD
+Change Net Name : Old Net Name=VCC_LED New Net Name=VCC
+Added Pin To Net: NetName=ADCIN Pin=U3-16
+Added Pin To Net: NetName=ADCIN Pin=U6-1
+Added Pin To Net: NetName=ADCIN Pin=U6-4
+Added Net: Name=ADCIN
+Added Pin To Net: NetName=ADC START EXTI_15 Pin=U3-38
+Added Pin To Net: NetName=ADC START EXTI_15 Pin=U9-1
+Added Net: Name=ADC START EXTI_15
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=AGND Pin=C12-1
+Added Pin To Net: NetName=AGND Pin=R18-2
+Added Pin To Net: NetName=AGND Pin=R22-2
+Added Pin To Net: NetName=AGND Pin=U4-3
+Added Pin To Net: NetName=AGND Pin=U4-3
+Added Pin To Net: NetName=AGND Pin=U4-3
+Added Pin To Net: NetName=AGND Pin=U5-2
+Added Pin To Net: NetName=AGND Pin=U6-2
+Added Pin To Net: NetName=AGND Pin=U7-2
+Added Pin To Net: NetName=AGND Pin=U8-3
+Added Pin To Net: NetName=AGND Pin=U8-3
+Added Pin To Net: NetName=AGND Pin=U8-3
+Added Pin To Net: NetName=AGND Pin=U9-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=AVCC Pin=C9-1
+Added Pin To Net: NetName=AVCC Pin=C10-1
+Added Pin To Net: NetName=AVCC Pin=R17-2
+Added Pin To Net: NetName=AVCC Pin=R22-1
+Added Pin To Net: NetName=AVCC Pin=U4-2
+Added Pin To Net: NetName=AVCC Pin=U5-5
+Added Pin To Net: NetName=AVCC Pin=U6-5
+Added Pin To Net: NetName=AVCC Pin=U7-5
+Added Pin To Net: NetName=AVCC Pin=U8-2
+Added Pin To Net: NetName=AVCC Pin=U9-5
+Added Net: Name=AVCC
+Added Pin To Net: NetName=CHARGE DETECT Pin=U2-1
+Added Net: Name=CHARGE DETECT
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U4-1
+Added Pin To Net: NetName=NetC7_1 Pin=U5-4
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R18-1
+Added Pin To Net: NetName=NetC8_1 Pin=U5-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R20-2
+Added Pin To Net: NetName=NetC11_1 Pin=U9-3
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R22-3
+Added Pin To Net: NetName=NetC12_2 Pin=U9-4
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=R5-1
+Added Pin To Net: NetName=NetD2_1 Pin=S1--
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=R5-2
+Added Net: Name=NetQ11_3
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U6-3
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U5-1
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U7-1
+Added Pin To Net: NetName=NetR21_2 Pin=U7-4
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetU7_3 Pin=U7-3
+Added Pin To Net: NetName=NetU7_3 Pin=U8-1
+Added Net: Name=NetU7_3
+Added Pin To Net: NetName=SOUND Pin=Q11-1
+Added Net: Name=SOUND
+Added Pin To Net: NetName=USB_SIG_OUT Pin=J1-4
+Added Pin To Net: NetName=USB_SIG_OUT Pin=R21-1
+Added Net: Name=USB_SIG_OUT
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C7 1nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C8 47pF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C9 1uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C10 1uF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C11 47pF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component C12 1nF
+Added Member To Class: ClassName=FEU31_Part3 Member=Component D2 BAR43C
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q11 RUM002N05T2L
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R17 47k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R18 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R19 150R
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R20 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R21 6R
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R22 100K
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U4 AD5160BRJZ5
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U5 LMV7239M5
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U6 OPA353NA
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U7 OPA353NA
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U8 AD5160BRJZ5
+Added Member To Class: ClassName=FEU31_Part3 Member=Component U9 LMV7239M5

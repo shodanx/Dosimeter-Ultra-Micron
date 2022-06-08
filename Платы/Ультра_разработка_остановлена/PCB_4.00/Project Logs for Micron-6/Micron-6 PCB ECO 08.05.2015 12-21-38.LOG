@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3V Pin=R19-1
+Removed Pin From Net: NetName=+3V Pin=Sound1-1
+Added Pin To Net: NetName=NetBatt+1_1 Pin=R19-1
+Added Pin To Net: NetName=NetBatt+1_1 Pin=Sound1-1
+Change Net Name : Old Net Name=NetBatt+1_1 New Net Name=BAT

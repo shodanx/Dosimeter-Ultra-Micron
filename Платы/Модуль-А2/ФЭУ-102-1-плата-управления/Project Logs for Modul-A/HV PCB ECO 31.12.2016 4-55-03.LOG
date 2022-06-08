@@ -1,0 +1,5 @@
+Added Component: Designator=R2(3223W)
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-3
+Added Member To Class: ClassName=Умножитель Member=Component R2 100K

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=D27-1
+Added Pin To Net: NetName=VSENS Pin=D27-1
+Added Pin To Net: NetName=AGND Pin=D27-2
+Added Pin To Net: NetName=NetR7_3 Pin=R7-3
+Added Pin To Net: NetName=NetR7_3 Pin=U3-2
+Added Net: Name=NetR7_3

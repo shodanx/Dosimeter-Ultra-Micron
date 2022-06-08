@@ -1,0 +1,3 @@
+Change Component Kind : Designator=Jumper Old Kind=Jumper New Kind=Net Tie
+Change Component Kind : Designator=Jumper2 Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=Jumper1 Old Kind=Standard New Kind=Net Tie

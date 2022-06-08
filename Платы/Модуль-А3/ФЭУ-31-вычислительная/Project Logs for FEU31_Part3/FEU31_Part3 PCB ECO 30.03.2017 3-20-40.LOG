@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C8 Old Comment=5pF New Comment=470pF
+Added Component: Designator=R24(1608[0603])
+Added Pin To Net: NetName=+5 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R24 10k

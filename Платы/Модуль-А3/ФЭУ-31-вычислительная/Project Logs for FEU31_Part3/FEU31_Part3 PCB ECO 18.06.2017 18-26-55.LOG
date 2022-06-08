@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SIGIN Pin=C8-2
+Removed Pin From Net: NetName=AGND Pin=R18-2
+Removed Member From Class: ClassName=FEU31_Part3 Member=C8
+Removed Member From Class: ClassName=FEU31_Part3 Member=R18
+Change Component Comment : Designator=R7 Old Comment=33R New Comment=22R
+Added Pin To Net: NetName=SIGIN Pin=U5-3
+Change Net Name : Old Net Name=6.6MV New Net Name=9.8MV

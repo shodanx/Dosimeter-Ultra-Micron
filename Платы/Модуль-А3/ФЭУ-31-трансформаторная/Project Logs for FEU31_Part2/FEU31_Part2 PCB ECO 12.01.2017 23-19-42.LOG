@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R9 47K

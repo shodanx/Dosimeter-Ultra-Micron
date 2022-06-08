@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PUMP Pin=U6-6
+Added Component: Designator=Q13(RUM002N05)
+Added Component: Designator=Q14(RUM002N05)
+Added Component: Designator=Q15(RUM002N05)
+Added Component: Designator=Q16(RUM002N05)
+Added Component: Designator=R2(1608[0603])
+Added Component: Designator=R16(1608[0603])
+Added Component: Designator=R19(1608[0603])
+Added Component: Designator=R20(1608[0603])
+Added Pin To Net: NetName=+5 Pin=Q13-1
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=PUMP Pin=Q14-3
+Added Pin To Net: NetName=PUMP Pin=Q15-3
+Added Pin To Net: NetName=PUMP Pin=Q16-3
+Added Pin To Net: NetName=PUMP Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=PUMP Pin=R19-2
+Added Pin To Net: NetName=PUMP Pin=R20-2
+Added Pin To Net: NetName=KEY_POWER_HOLD Pin=Q15-1
+Added Pin To Net: NetName=KEY_POWER_HOLD Pin=R19-1
+Added Net: Name=KEY_POWER_HOLD
+Added Pin To Net: NetName=MCU_POWER_HOLD Pin=Q16-1
+Added Pin To Net: NetName=MCU_POWER_HOLD Pin=R20-1
+Added Net: Name=MCU_POWER_HOLD
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-3
+Added Pin To Net: NetName=NetQ13_3 Pin=Q14-1
+Added Pin To Net: NetName=NetQ13_3 Pin=R2-1
+Added Net: Name=NetQ13_3
+Added Pin To Net: NetName=PW_ON Pin=Q14-2
+Added Pin To Net: NetName=PW_ON Pin=Q15-2
+Added Pin To Net: NetName=PW_ON Pin=Q16-2
+Added Pin To Net: NetName=PW_ON Pin=R16-1
+Added Pin To Net: NetName=PW_ON Pin=U6-3
+Added Pin To Net: NetName=PW_ON Pin=U6-6
+Added Pin To Net: NetName=PW_ON Pin=U10-3
+Added Net: Name=PW_ON
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q13 RUM002N05T2L
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q14 RZM002P02T2L
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q15 RZM002P02T2L
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Q16 RZM002P02T2L
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R2 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R16 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R19 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R20 10k
+Added Member To Class: ClassName=FEU31_Part3 Member=Component Z1 8MHZ_cap

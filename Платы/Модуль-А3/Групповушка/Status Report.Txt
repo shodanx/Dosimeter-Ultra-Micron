@@ -1,0 +1,14 @@
+Source PCB Design FEU31_Part1.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[FEU31_Part1.RUL]
+   Generated File[FEU31_Part1.EXTREP]
+   Generated File[FEU31_Part1.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:40:36 On 03.04.2017

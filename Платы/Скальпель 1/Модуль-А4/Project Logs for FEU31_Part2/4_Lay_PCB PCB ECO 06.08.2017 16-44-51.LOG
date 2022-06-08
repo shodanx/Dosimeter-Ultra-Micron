@@ -1,0 +1,7 @@
+Added Component: Designator=+5D(MMCX2.54-V5)
+Added Pin To Net: NetName=+5DIGITAL Pin=+5D-1
+Added Pin To Net: NetName=AGND Pin=+5D-2
+Added Pin To Net: NetName=AGND Pin=+5D-3
+Added Pin To Net: NetName=AGND Pin=+5D-4
+Added Pin To Net: NetName=AGND Pin=+5D-5
+Added Member To Class: ClassName=FEU31_Part2 Member=Component +5D COAX-M

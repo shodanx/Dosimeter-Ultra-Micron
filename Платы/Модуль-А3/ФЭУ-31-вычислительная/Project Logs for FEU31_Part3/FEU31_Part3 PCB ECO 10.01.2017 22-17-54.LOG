@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=U3-3
+Removed Pin From Net: NetName=NetC6_2 Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=WKUP Pin=U3-10
+Removed Pin From Net: NetName=C_DIG1 Pin=U3-11
+Removed Pin From Net: NetName=C_DIG2 Pin=U3-12
+Removed Pin From Net: NetName=C_DIG3 Pin=U3-13
+Removed Pin From Net: NetName=NetR16_1 Pin=U3-14
+Removed Pin From Net: NetName=DAC_OUT2 Pin=U3-15
+Removed Pin From Net: NetName=SIGIN Pin=U3-16
+Removed Pin From Net: NetName=C_SEG_A Pin=U3-18
+Removed Pin From Net: NetName=C_SEG_B Pin=U3-19
+Removed Pin From Net: NetName=C_SEG_C Pin=U3-20
+Removed Pin From Net: NetName=C_SEG_D Pin=U3-21
+Removed Pin From Net: NetName=C_SEG_E Pin=U3-22
+Removed Pin From Net: NetName=GND Pin=U3-23
+Removed Pin From Net: NetName=C_SEG_F Pin=U3-25
+Removed Pin From Net: NetName=SPI2_SCK Pin=U3-26
+Removed Pin From Net: NetName=SPI2_MISO Pin=U3-27
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U3-28
+Removed Pin From Net: NetName=NetU1_6 Pin=U3-32
+Removed Pin From Net: NetName=NetU1_4 Pin=U3-33
+Removed Pin From Net: NetName=IO Pin=U3-34
+Removed Pin From Net: NetName=GND Pin=U3-35
+Removed Pin From Net: NetName=CLK Pin=U3-37
+Removed Pin From Net: NetName=VSENS Pin=U3-40
+Removed Pin From Net: NetName=GND Pin=U3-44
+Removed Pin From Net: NetName=C_SEG_G Pin=U3-46
+Removed Pin From Net: NetName=GND Pin=U3-47
+Removed Member From Class: ClassName=FEU31_Part3 Member=U3
+Added Pin To Net: NetName=NetU?_5 Pin=Z2-2
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_6 Pin=Z2-1
+Added Net: Name=NetU?_6

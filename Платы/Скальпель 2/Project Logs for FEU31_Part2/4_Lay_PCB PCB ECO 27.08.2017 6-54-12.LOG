@@ -1,0 +1,178 @@
+Removed Pin From Net: NetName=V_IN Pin=C3-1
+Removed Pin From Net: NetName=CLEAR_CHARGE Pin=Clear_Charge-1
+Removed Pin From Net: NetName=AGND Pin=Clear_Charge-2
+Removed Pin From Net: NetName=AGND Pin=Clear_Charge-2
+Removed Pin From Net: NetName=VDIGISETCANCS Pin=P1-1
+Removed Pin From Net: NetName=VDIGISETCANDIN Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=VDIGISETCANCLK Pin=P1-4
+Removed Pin From Net: NetName=NEGATIVE_V_IN Pin=P1-5
+Removed Pin From Net: NetName=V_IN Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=PULSESENS Pin=Pulse_sens-1
+Removed Pin From Net: NetName=AGND Pin=Pulse_sens-2
+Removed Pin From Net: NetName=AGND Pin=Pulse_sens-2
+Removed Pin From Net: NetName=PULSE Pin=Pump-1
+Removed Pin From Net: NetName=GND Pin=Pump-2
+Removed Pin From Net: NetName=GND Pin=Pump-2
+Removed Pin From Net: NetName=V_IN Pin=U7-4
+Removed Pin From Net: NetName=V_IN Pin=U7-5
+Removed Pin From Net: NetName=V_IN Pin=U7-6
+Removed Pin From Net: NetName=VDIGISENSCAN Pin=Vsens-1
+Removed Pin From Net: NetName=AGND Pin=Vsens-2
+Removed Pin From Net: NetName=AGND Pin=Vsens-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=Clear_Charge
+Removed Member From Class: ClassName=FEU31_Part2 Member=P1
+Removed Member From Class: ClassName=FEU31_Part2 Member=Pulse_sens
+Removed Member From Class: ClassName=FEU31_Part2 Member=Pump
+Removed Member From Class: ClassName=FEU31_Part2 Member=Vsens
+Added Component: Designator=Batt(HDR1X2)
+Added Component: Designator=C1(1608[0603]_CAP)
+Added Component: Designator=C2(1608[0603]_CAP)
+Added Component: Designator=C3(1608[0603]_CAP)
+Added Component: Designator=C4(1608[0603]_CAP)
+Added Component: Designator=C5(1608[0603]_CAP)
+Added Component: Designator=C6(1608[0603]_CAP)
+Added Component: Designator=C7(1608[0603]_CAP)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(1608[0603]_CAP)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(1608[0603]_CAP)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(1608[0603]_CAP)
+Added Component: Designator=D1(SMB)
+Added Component: Designator=D2(SMB)
+Added Component: Designator=L1(SLF10145)
+Added Component: Designator=L2(SLF10145)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=R1(1608[0603]_RES)
+Added Component: Designator=R2(1608[0603]_RES)
+Added Component: Designator=R3(1608[0603]_RES)
+Added Component: Designator=R4(1608[0603]_RES)
+Added Component: Designator=R5(1608[0603]_RES)
+Added Component: Designator=R6(1608[0603]_RES)
+Added Component: Designator=R7(1608[0603]_RES)
+Added Component: Designator=R8(1608[0603]_RES)
+Added Component: Designator=U1(VQG44_N)
+Added Component: Designator=U2(LT-DD-10_V)
+Added Component: Designator=U3(LT-DD-10_V)
+Added Pin To Net: NetName=V_IN Pin=Batt-1
+Added Pin To Net: NetName=GND Pin=Batt-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5ANALOG Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=V_IN Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=V_IN Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=C13-2
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=D2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=R7-1
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=R8-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=PULSE Pin=U1-29
+Added Pin To Net: NetName=VDIGISENSCAN Pin=U1-30
+Added Pin To Net: NetName=PULSESENS Pin=U1-31
+Added Pin To Net: NetName=CLEAR_CHARGE Pin=U1-32
+Added Pin To Net: NetName=V_IN Pin=U2-4
+Added Pin To Net: NetName=V_IN Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=V_IN Pin=U3-4
+Added Pin To Net: NetName=V_IN Pin=U3-5
+Added Pin To Net: NetName=NEGATIVE_V_IN Pin=U3-11
+Added Pin To Net: NetName=+5ANALOG Pin=U7-4
+Added Pin To Net: NetName=+5ANALOG Pin=U7-5
+Added Pin To Net: NetName=+5ANALOG Pin=U7-6
+Change Net Name : Old Net Name=NEGATIVE_V_IN New Net Name=NEGATIVE_V
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=U1-15
+Added Pin To Net: NetName=3.3V Pin=U1-26
+Added Pin To Net: NetName=3.3V Pin=U1-35
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=38.4MHZ Pin=U1-43
+Added Net: Name=38.4MHZ
+Added Pin To Net: NetName=ADC_START Pin=U1-41
+Added Net: Name=ADC_START
+Added Pin To Net: NetName=MCU_CONTROL1 Pin=U1-42
+Added Net: Name=MCU_CONTROL1
+Added Pin To Net: NetName=MCU_CONTROL2 Pin=U1-39
+Added Net: Name=MCU_CONTROL2
+Added Pin To Net: NetName=MCU_CONTROL3 Pin=U1-40
+Added Net: Name=MCU_CONTROL3
+Added Pin To Net: NetName=MCU_CONTROL4 Pin=U1-44
+Added Net: Name=MCU_CONTROL4
+Added Pin To Net: NetName=MCU_CONTROL5 Pin=U1-1
+Added Net: Name=MCU_CONTROL5
+Added Pin To Net: NetName=MCU_CONTROL6 Pin=U1-2
+Added Net: Name=MCU_CONTROL6
+Added Pin To Net: NetName=MCU_CONTROL7 Pin=U1-3
+Added Net: Name=MCU_CONTROL7
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=D1-2
+Added Pin To Net: NetName=NetC7_2 Pin=L1-1
+Added Pin To Net: NetName=NetC7_2 Pin=U2-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D2-2
+Added Pin To Net: NetName=NetC11_2 Pin=L2-1
+Added Pin To Net: NetName=NetC11_2 Pin=U3-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-9
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U2-8
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-10
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U3-9
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-10
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=TCK Pin=P2-3
+Added Pin To Net: NetName=TCK Pin=U1-11
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=P2-5
+Added Pin To Net: NetName=TDI Pin=U1-9
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=P2-2
+Added Pin To Net: NetName=TDO Pin=U1-24
+Added Net: Name=TDO
+Added Pin To Net: NetName=TMS Pin=P2-4
+Added Pin To Net: NetName=TMS Pin=U1-10
+Added Net: Name=TMS
+Added Class: Name=CPLD
+Added Room: Name=CPLD

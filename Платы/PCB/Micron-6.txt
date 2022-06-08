@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~258|Field=Quantity~Integer~Quantity~109|Field=Order~String~Order~303|Field=Ordered~String~Ordered~303|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Micron-6.PrjPcb|ReportField=ProjectFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb|ReportField=Title~Bill of Materials For Project [Micron-6.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~63|ReportField=ReportTime~5:43:17|ReportField=ReportDate~16.05.2016|ReportField=ReportDateTime~16.05.2016 5:43:17|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Дозиметр Ультра-Микрон|ReportField=Address2~(с) ООО "Микрон Сервис"|ReportField=Address3~Тула, 2016г.|ReportField=Address4~shodan@микрон.net|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andrey Bykanov|ReportField=CheckedBy~|ReportField=CompanyName~http://микрон.net|ReportField=CurrentDate~16.05.2016|ReportField=CurrentTime~5:42:35|ReportField=Date~17.04.2016|ReportField=DocumentFullPathAndName~C:\Проекты\Ультра-микрон\PCB\Micron-6.SchDoc|ReportField=DocumentName~Micron-6.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Andrey Bykanov|ReportField=ImagePath~|ReportField=ModifiedDate~13.05.2016|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=False:CenterVertical=False:PrintScale=0.98:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=0:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~Micron-6.PrjPcb|ReportField=Revision~6.00|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Ультра-Микрон|ReportField=DataSourceFileName~Micron-6.PrjPcb|ReportField=DataSourceFullPath~C:\Проекты\Ультра-микрон\PCB\Micron-6.PrjPcb
+1|C2, C3, C4, C5, C6, C7, C8, C9|8|GRM155R61A105KE15D|10000
+2|C10, C13|2|GRM188R61A225KE34D|4000
+3|C12|1|GRM31BR72J472KW01L|3000
+4|R23|1|RC0402FR-074K99L|10000
+5|R21, R27|2|RC0805JR-075M1L|5000
+6|R14, R20, R25, R29, R30, R31|6|RC0402FR-0710KL|10000
+7|C14|1|GRM155R71H103KA88D|10000
+8|C16, C20|2|GRM1555C1H100JA01D|10000
+9|C18, C22|2|GRM31A7U2J100JW31D|
+10|C11|1|GRM188R60J106ME47D|4000
+11|R9|1|RC0402FR-0720KL|10000
+12|R2, R13|2|RC0402FR-0722RL|10000
+13|Z2|1|ABS07-120-32.768kHz-T|
+14|C17, C19, C21, C23|4|GRM155R61A104KA01D|10000
+15|R1, R17|2|RC0402FR-07150RL|10000
+16|R18|1|RC0402FR-07196KL|10000
+17|C15|1|GRM1555C1H221JA01D|10000
+18|R12|1|RC0402JR-07390KL|10000
+19|R16, R19, R22, R24, R28|5|RC0402FR-07470RL|10000
+20|T1|1|ATB322515-0110|
+21|D2|1|BAV99W|3000
+22|Q8, Q9|2|BC857CW|3000
+23|Z1|1|CSTCE8M00G55-R0|250
+24|D1|1|DA2JF8100L|500
+25|U2|1|MCP73831-2ACI/MC|300
+26|J1|1|10118192-0001LF|
+27|Q1, Q4, Q5, Q6, Q7|5|RUM002N05T2L|
+28|Joy1|1|SLLB510100|
+29|U4|1|STM32L152CBU6|
+30|U3|1|TPS780180300DRVT|250
+31|Display|1|UG-2832HSWEG04|
+32|U1|1|USBLC6-4SC6|1000
+33|B1|1|Vibro|

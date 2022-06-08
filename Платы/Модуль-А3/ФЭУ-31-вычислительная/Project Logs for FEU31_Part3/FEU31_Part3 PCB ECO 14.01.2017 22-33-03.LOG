@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SPI2_SCK Pin=U4-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=U4-5
+Added Pin To Net: NetName=SPI2_SCK Pin=U8-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=U8-5
+Added Pin To Net: NetName=CS_DAC Pin=U8-6
+Added Net: Name=CS_DAC
+Added Pin To Net: NetName=CS_FRONT Pin=U4-6
+Added Net: Name=CS_FRONT

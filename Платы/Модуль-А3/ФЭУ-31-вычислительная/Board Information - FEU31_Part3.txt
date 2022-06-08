@@ -1,0 +1,179 @@
+Board Information Report
+Filename     : C:\Users\123\Desktop\Платы\Ультра-микрон\Модуль-А3\ФЭУ-31-вычислительная\FEU31_Part3.PcbDoc
+Date         : 02.04.2017
+Time         : 16:05:02
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 29.45mmx22.275mm
+    Components on board, 69
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 163
+    Connections routed, 163
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 139, 0, 372, 0, 0, 8, 0
+    Bottom Layer, 0, 84, 0, 349, 0, 0, 10, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 27
+    Mechanical 13, 1, 0, 0, 204, 0, 0, 0, 39
+    Mechanical 15, 0, 0, 0, 312, 0, 0, 0, 0
+    Mechanical 24, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 4, 0, 0
+    Top Overlay, 5, 0, 0, 51, 90, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 2, 0, 0, 40, 53, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 14, 81, 0, 0, 0, 1, 0
+count : 16
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 81
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 223, 0
+    0.3mm, 0, 76
+    0.4mm, 2, 4
+    0.5mm, 10, 1
+    0.8mm, 2, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.3mm, 7
+    0.3mm, 2
+    0.32mm, 64
+    0.35mm, 1
+    0.4mm, 2
+    0.4mm, 7
+    0.5mm, 12
+count : 7
+
+Mid Layer Annular Ring Size, Count
+    0.3mm, 7
+    0.3mm, 2
+    0.32mm, 64
+    0.35mm, 1
+    0.4mm, 2
+    0.4mm, 7
+    0.5mm, 12
+count : 7
+
+Bottom Layer Annular Ring Size, Count
+    0.3mm, 7
+    0.3mm, 2
+    0.32mm, 64
+    0.35mm, 1
+    0.4mm, 2
+    0.4mm, 7
+    0.5mm, 12
+count : 7
+
+Pad Solder Mask, Count
+    0.05mm, 237
+count : 1
+
+Pad Paste Mask, Count
+    -2.5mm, 1
+    0mm, 236
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    2mm, 237
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.3mm, 237
+count : 1
+
+Pad Relief Air Gap, Count
+    0.4572mm, 237
+count : 1
+
+Pad Relief Entries, Count
+    4, 237
+count : 1
+
+Via Solder Mask, Count
+    0.05mm, 81
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    2mm, 81
+count : 1
+
+Track Width, Count
+    0.05mm, 56
+    0.1mm, 477
+    0.2mm, 112
+    0.23mm, 11
+    0.25mm, 546
+    0.3mm, 52
+    0.35mm, 7
+    0.4mm, 56
+    0.5mm, 7
+    0.6mm, 4
+count : 10
+
+Arc Line Width, Count
+    0.1mm, 1
+    0.25mm, 5
+    0.254mm, 2
+count : 3
+
+Arc Radius, Count
+    0.0832mm, 1
+    0.1mm, 1
+    0.125mm, 5
+    0.5mm, 1
+count : 4
+
+Arc Degrees, Count
+    360, 8
+count : 1
+
+Text Height, Count
+    0.7mm, 46
+    0.75mm, 17
+    0.7524mm, 4
+    1.2mm, 1
+    1.5mm, 4
+    1.524mm, 71
+count : 6
+
+Text Width, Count
+    0.15mm, 63
+    0.154mm, 4
+    0.254mm, 76
+count : 3
+
+Net Track Width, Count
+    0.2mm, 60
+count : 1
+
+Net Via Size, Count
+    0.62mm, 60
+count : 1

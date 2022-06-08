@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=R3-1
+Removed Pin From Net: NetName=V_IN Pin=R3-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=R3
+Added Component: Designator=C62(1608[0603]_CAP)
+Added Component: Designator=U10(TPS78330DDCR)
+Added Pin To Net: NetName=V_IN Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=V_IN Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=V_IN Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=NetC2_1 Pin=U10-5
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C62 1uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component U10 TPS78330DDCR

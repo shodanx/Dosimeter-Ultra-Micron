@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=Vibro-1
+Removed Pin From Net: NetName=GND Pin=Vibro-1
+Added Component: Designator=C23(0402 AVX)
+Added Component: Designator=Q6(PMR400UN)
+Added Component: Designator=R24(1608[0603])
+Added Component: Designator=R25(1608[0603])
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=BAT Pin=R25-1
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC23_1 Pin=Vibro-1
+Added Pin To Net: NetName=NetC23_1 Pin=Vibro-1
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R25-2
+Added Pin To Net: NetName=NetC23_2 Pin=Vibro-2
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R24-2
+Added Net: Name=NetQ6_1
+Added Member To Class: ClassName=Micron-6 Member=Component C23 100nF
+Added Member To Class: ClassName=Micron-6 Member=Component Q6 RUM002N05T2L
+Added Member To Class: ClassName=Micron-6 Member=Component R24 100k
+Added Member To Class: ClassName=Micron-6 Member=Component R25 15R

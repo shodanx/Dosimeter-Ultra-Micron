@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+DATA ESD Pin=U1-4
+Removed Pin From Net: NetName=-DATA ESD Pin=U1-6
+Removed Member From Class: ClassName=FEU31_Part3 Member=U1
+Added Pin To Net: NetName=-DATA ESD Pin=R3-1
+Added Pin To Net: NetName=+DATA ESD Pin=R4-1

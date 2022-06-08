@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MAXPULSELEVEL Pin=Max_Pulse-1
+Removed Pin From Net: NetName=AGND Pin=Max_Pulse-2
+Removed Pin From Net: NetName=AGND Pin=Max_Pulse-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=Max_Pulse

@@ -1,0 +1,4 @@
+Added Component: Designator=R2(1608[0603])
+Added Pin To Net: NetName=SOUND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=FEU31_Part3 Member=Component R2 10k

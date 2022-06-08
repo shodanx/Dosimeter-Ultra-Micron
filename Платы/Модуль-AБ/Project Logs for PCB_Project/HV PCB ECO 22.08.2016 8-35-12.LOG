@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Q1 Old Footprint=PMR400UN New Footprint=SOT-23_N
+Change Component Comment : Designator=Q1 Old Comment=PMR400UN New Comment=IRLML2402
+Change Component Designator: OldDesignator=M FK NewDesignator=FK M
